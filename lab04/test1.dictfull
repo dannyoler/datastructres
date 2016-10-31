@@ -1,0 +1,7650 @@
+Insert propeller 0 in sorted order
+propeller 0
+Insert antimasonry 1 in sorted order
+DEBUG: propeller > antimasonry so return (nil)
+antimasonry 1
+propeller 0
+Insert dacryon 2 in sorted order
+DEBUG: antimasonry <= dacryon
+DEBUG: propeller > dacryon so return 0x6212a0
+antimasonry 1
+dacryon 2
+propeller 0
+Insert unread 3 in sorted order
+DEBUG: antimasonry <= unread
+DEBUG: dacryon <= unread
+DEBUG: propeller <= unread
+antimasonry 1
+dacryon 2
+propeller 0
+unread 3
+Insert prosogyrate 4 in sorted order
+DEBUG: antimasonry <= prosogyrate
+DEBUG: dacryon <= prosogyrate
+DEBUG: propeller <= prosogyrate
+DEBUG: unread > prosogyrate so return 0x621250
+antimasonry 1
+dacryon 2
+propeller 0
+prosogyrate 4
+unread 3
+Insert omnimeter 5 in sorted order
+DEBUG: antimasonry <= omnimeter
+DEBUG: dacryon <= omnimeter
+DEBUG: propeller > omnimeter so return 0x6212f0
+antimasonry 1
+dacryon 2
+omnimeter 5
+propeller 0
+prosogyrate 4
+unread 3
+Insert thysanurous 6 in sorted order
+DEBUG: antimasonry <= thysanurous
+DEBUG: dacryon <= thysanurous
+DEBUG: omnimeter <= thysanurous
+DEBUG: propeller <= thysanurous
+DEBUG: prosogyrate <= thysanurous
+DEBUG: unread > thysanurous so return 0x621390
+antimasonry 1
+dacryon 2
+omnimeter 5
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert overquickly 7 in sorted order
+DEBUG: antimasonry <= overquickly
+DEBUG: dacryon <= overquickly
+DEBUG: omnimeter <= overquickly
+DEBUG: propeller > overquickly so return 0x6213e0
+antimasonry 1
+dacryon 2
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert doucely 8 in sorted order
+DEBUG: antimasonry <= doucely
+DEBUG: dacryon <= doucely
+DEBUG: omnimeter > doucely so return 0x6212f0
+antimasonry 1
+dacryon 2
+doucely 8
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert leucocytoplania 9 in sorted order
+DEBUG: antimasonry <= leucocytoplania
+DEBUG: dacryon <= leucocytoplania
+DEBUG: doucely <= leucocytoplania
+DEBUG: omnimeter > leucocytoplania so return 0x6214d0
+antimasonry 1
+dacryon 2
+doucely 8
+leucocytoplania 9
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert metrophotography 10 in sorted order
+DEBUG: antimasonry <= metrophotography
+DEBUG: dacryon <= metrophotography
+DEBUG: doucely <= metrophotography
+DEBUG: leucocytoplania <= metrophotography
+DEBUG: omnimeter > metrophotography so return 0x621520
+antimasonry 1
+dacryon 2
+doucely 8
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert anhalouidine 11 in sorted order
+DEBUG: antimasonry > anhalouidine so return (nil)
+anhalouidine 11
+antimasonry 1
+dacryon 2
+doucely 8
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert droitural 12 in sorted order
+DEBUG: anhalouidine <= droitural
+DEBUG: antimasonry <= droitural
+DEBUG: dacryon <= droitural
+DEBUG: doucely <= droitural
+DEBUG: leucocytoplania > droitural so return 0x6214d0
+anhalouidine 11
+antimasonry 1
+dacryon 2
+doucely 8
+droitural 12
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert humorist 13 in sorted order
+DEBUG: anhalouidine <= humorist
+DEBUG: antimasonry <= humorist
+DEBUG: dacryon <= humorist
+DEBUG: doucely <= humorist
+DEBUG: droitural <= humorist
+DEBUG: leucocytoplania > humorist so return 0x621610
+anhalouidine 11
+antimasonry 1
+dacryon 2
+doucely 8
+droitural 12
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert dynamogenic 14 in sorted order
+DEBUG: anhalouidine <= dynamogenic
+DEBUG: antimasonry <= dynamogenic
+DEBUG: dacryon <= dynamogenic
+DEBUG: doucely <= dynamogenic
+DEBUG: droitural <= dynamogenic
+DEBUG: humorist > dynamogenic so return 0x621610
+anhalouidine 11
+antimasonry 1
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+thysanurous 6
+unread 3
+Insert recuperation 15 in sorted order
+DEBUG: anhalouidine <= recuperation
+DEBUG: antimasonry <= recuperation
+DEBUG: dacryon <= recuperation
+DEBUG: doucely <= recuperation
+DEBUG: droitural <= recuperation
+DEBUG: dynamogenic <= recuperation
+DEBUG: humorist <= recuperation
+DEBUG: leucocytoplania <= recuperation
+DEBUG: metrophotography <= recuperation
+DEBUG: omnimeter <= recuperation
+DEBUG: overquickly <= recuperation
+DEBUG: propeller <= recuperation
+DEBUG: prosogyrate <= recuperation
+DEBUG: thysanurous > recuperation so return 0x621390
+anhalouidine 11
+antimasonry 1
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+unread 3
+Insert apocynum 16 in sorted order
+DEBUG: anhalouidine <= apocynum
+DEBUG: antimasonry <= apocynum
+DEBUG: dacryon > apocynum so return 0x6212a0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+unread 3
+Insert unforsaken 17 in sorted order
+DEBUG: anhalouidine <= unforsaken
+DEBUG: antimasonry <= unforsaken
+DEBUG: apocynum <= unforsaken
+DEBUG: dacryon <= unforsaken
+DEBUG: doucely <= unforsaken
+DEBUG: droitural <= unforsaken
+DEBUG: dynamogenic <= unforsaken
+DEBUG: humorist <= unforsaken
+DEBUG: leucocytoplania <= unforsaken
+DEBUG: metrophotography <= unforsaken
+DEBUG: omnimeter <= unforsaken
+DEBUG: overquickly <= unforsaken
+DEBUG: propeller <= unforsaken
+DEBUG: prosogyrate <= unforsaken
+DEBUG: recuperation <= unforsaken
+DEBUG: thysanurous <= unforsaken
+DEBUG: unread > unforsaken so return 0x621430
+anhalouidine 11
+antimasonry 1
+apocynum 16
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+unforsaken 17
+unread 3
+Insert ulotrichaceous 18 in sorted order
+DEBUG: anhalouidine <= ulotrichaceous
+DEBUG: antimasonry <= ulotrichaceous
+DEBUG: apocynum <= ulotrichaceous
+DEBUG: dacryon <= ulotrichaceous
+DEBUG: doucely <= ulotrichaceous
+DEBUG: droitural <= ulotrichaceous
+DEBUG: dynamogenic <= ulotrichaceous
+DEBUG: humorist <= ulotrichaceous
+DEBUG: leucocytoplania <= ulotrichaceous
+DEBUG: metrophotography <= ulotrichaceous
+DEBUG: omnimeter <= ulotrichaceous
+DEBUG: overquickly <= ulotrichaceous
+DEBUG: propeller <= ulotrichaceous
+DEBUG: prosogyrate <= ulotrichaceous
+DEBUG: recuperation <= ulotrichaceous
+DEBUG: thysanurous <= ulotrichaceous
+DEBUG: unforsaken > ulotrichaceous so return 0x621430
+anhalouidine 11
+antimasonry 1
+apocynum 16
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+ulotrichaceous 18
+unforsaken 17
+unread 3
+Insert autem 19 in sorted order
+DEBUG: anhalouidine <= autem
+DEBUG: antimasonry <= autem
+DEBUG: apocynum <= autem
+DEBUG: dacryon > autem so return 0x621750
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+ulotrichaceous 18
+unforsaken 17
+unread 3
+Insert undevious 20 in sorted order
+DEBUG: anhalouidine <= undevious
+DEBUG: antimasonry <= undevious
+DEBUG: apocynum <= undevious
+DEBUG: autem <= undevious
+DEBUG: dacryon <= undevious
+DEBUG: doucely <= undevious
+DEBUG: droitural <= undevious
+DEBUG: dynamogenic <= undevious
+DEBUG: humorist <= undevious
+DEBUG: leucocytoplania <= undevious
+DEBUG: metrophotography <= undevious
+DEBUG: omnimeter <= undevious
+DEBUG: overquickly <= undevious
+DEBUG: propeller <= undevious
+DEBUG: prosogyrate <= undevious
+DEBUG: recuperation <= undevious
+DEBUG: thysanurous <= undevious
+DEBUG: ulotrichaceous <= undevious
+DEBUG: unforsaken > undevious so return 0x6217f0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+Insert infraterritorial 21 in sorted order
+DEBUG: anhalouidine <= infraterritorial
+DEBUG: antimasonry <= infraterritorial
+DEBUG: apocynum <= infraterritorial
+DEBUG: autem <= infraterritorial
+DEBUG: dacryon <= infraterritorial
+DEBUG: doucely <= infraterritorial
+DEBUG: droitural <= infraterritorial
+DEBUG: dynamogenic <= infraterritorial
+DEBUG: humorist <= infraterritorial
+DEBUG: leucocytoplania > infraterritorial so return 0x621660
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+Insert precontroversy 22 in sorted order
+DEBUG: anhalouidine <= precontroversy
+DEBUG: antimasonry <= precontroversy
+DEBUG: apocynum <= precontroversy
+DEBUG: autem <= precontroversy
+DEBUG: dacryon <= precontroversy
+DEBUG: doucely <= precontroversy
+DEBUG: droitural <= precontroversy
+DEBUG: dynamogenic <= precontroversy
+DEBUG: humorist <= precontroversy
+DEBUG: infraterritorial <= precontroversy
+DEBUG: leucocytoplania <= precontroversy
+DEBUG: metrophotography <= precontroversy
+DEBUG: omnimeter <= precontroversy
+DEBUG: overquickly <= precontroversy
+DEBUG: propeller > precontroversy so return 0x621480
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+Insert subbourdon 23 in sorted order
+DEBUG: anhalouidine <= subbourdon
+DEBUG: antimasonry <= subbourdon
+DEBUG: apocynum <= subbourdon
+DEBUG: autem <= subbourdon
+DEBUG: dacryon <= subbourdon
+DEBUG: doucely <= subbourdon
+DEBUG: droitural <= subbourdon
+DEBUG: dynamogenic <= subbourdon
+DEBUG: humorist <= subbourdon
+DEBUG: infraterritorial <= subbourdon
+DEBUG: leucocytoplania <= subbourdon
+DEBUG: metrophotography <= subbourdon
+DEBUG: omnimeter <= subbourdon
+DEBUG: overquickly <= subbourdon
+DEBUG: precontroversy <= subbourdon
+DEBUG: propeller <= subbourdon
+DEBUG: prosogyrate <= subbourdon
+DEBUG: recuperation <= subbourdon
+DEBUG: thysanurous > subbourdon so return 0x621700
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+Insert viverrine 24 in sorted order
+DEBUG: anhalouidine <= viverrine
+DEBUG: antimasonry <= viverrine
+DEBUG: apocynum <= viverrine
+DEBUG: autem <= viverrine
+DEBUG: dacryon <= viverrine
+DEBUG: doucely <= viverrine
+DEBUG: droitural <= viverrine
+DEBUG: dynamogenic <= viverrine
+DEBUG: humorist <= viverrine
+DEBUG: infraterritorial <= viverrine
+DEBUG: leucocytoplania <= viverrine
+DEBUG: metrophotography <= viverrine
+DEBUG: omnimeter <= viverrine
+DEBUG: overquickly <= viverrine
+DEBUG: precontroversy <= viverrine
+DEBUG: propeller <= viverrine
+DEBUG: prosogyrate <= viverrine
+DEBUG: recuperation <= viverrine
+DEBUG: subbourdon <= viverrine
+DEBUG: thysanurous <= viverrine
+DEBUG: ulotrichaceous <= viverrine
+DEBUG: undevious <= viverrine
+DEBUG: unforsaken <= viverrine
+DEBUG: unread <= viverrine
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+Insert semisucculent 25 in sorted order
+DEBUG: anhalouidine <= semisucculent
+DEBUG: antimasonry <= semisucculent
+DEBUG: apocynum <= semisucculent
+DEBUG: autem <= semisucculent
+DEBUG: dacryon <= semisucculent
+DEBUG: doucely <= semisucculent
+DEBUG: droitural <= semisucculent
+DEBUG: dynamogenic <= semisucculent
+DEBUG: humorist <= semisucculent
+DEBUG: infraterritorial <= semisucculent
+DEBUG: leucocytoplania <= semisucculent
+DEBUG: metrophotography <= semisucculent
+DEBUG: omnimeter <= semisucculent
+DEBUG: overquickly <= semisucculent
+DEBUG: precontroversy <= semisucculent
+DEBUG: propeller <= semisucculent
+DEBUG: prosogyrate <= semisucculent
+DEBUG: recuperation <= semisucculent
+DEBUG: subbourdon > semisucculent so return 0x621700
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+Insert clinopodium 26 in sorted order
+DEBUG: anhalouidine <= clinopodium
+DEBUG: antimasonry <= clinopodium
+DEBUG: apocynum <= clinopodium
+DEBUG: autem <= clinopodium
+DEBUG: dacryon > clinopodium so return 0x621840
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+Insert mycosterol 27 in sorted order
+DEBUG: anhalouidine <= mycosterol
+DEBUG: antimasonry <= mycosterol
+DEBUG: apocynum <= mycosterol
+DEBUG: autem <= mycosterol
+DEBUG: clinopodium <= mycosterol
+DEBUG: dacryon <= mycosterol
+DEBUG: doucely <= mycosterol
+DEBUG: droitural <= mycosterol
+DEBUG: dynamogenic <= mycosterol
+DEBUG: humorist <= mycosterol
+DEBUG: infraterritorial <= mycosterol
+DEBUG: leucocytoplania <= mycosterol
+DEBUG: metrophotography <= mycosterol
+DEBUG: omnimeter > mycosterol so return 0x621570
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+Insert waistcoatless 28 in sorted order
+DEBUG: anhalouidine <= waistcoatless
+DEBUG: antimasonry <= waistcoatless
+DEBUG: apocynum <= waistcoatless
+DEBUG: autem <= waistcoatless
+DEBUG: clinopodium <= waistcoatless
+DEBUG: dacryon <= waistcoatless
+DEBUG: doucely <= waistcoatless
+DEBUG: droitural <= waistcoatless
+DEBUG: dynamogenic <= waistcoatless
+DEBUG: humorist <= waistcoatless
+DEBUG: infraterritorial <= waistcoatless
+DEBUG: leucocytoplania <= waistcoatless
+DEBUG: metrophotography <= waistcoatless
+DEBUG: mycosterol <= waistcoatless
+DEBUG: omnimeter <= waistcoatless
+DEBUG: overquickly <= waistcoatless
+DEBUG: precontroversy <= waistcoatless
+DEBUG: propeller <= waistcoatless
+DEBUG: prosogyrate <= waistcoatless
+DEBUG: recuperation <= waistcoatless
+DEBUG: semisucculent <= waistcoatless
+DEBUG: subbourdon <= waistcoatless
+DEBUG: thysanurous <= waistcoatless
+DEBUG: ulotrichaceous <= waistcoatless
+DEBUG: undevious <= waistcoatless
+DEBUG: unforsaken <= waistcoatless
+DEBUG: unread <= waistcoatless
+DEBUG: viverrine <= waistcoatless
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert tepal 29 in sorted order
+DEBUG: anhalouidine <= tepal
+DEBUG: antimasonry <= tepal
+DEBUG: apocynum <= tepal
+DEBUG: autem <= tepal
+DEBUG: clinopodium <= tepal
+DEBUG: dacryon <= tepal
+DEBUG: doucely <= tepal
+DEBUG: droitural <= tepal
+DEBUG: dynamogenic <= tepal
+DEBUG: humorist <= tepal
+DEBUG: infraterritorial <= tepal
+DEBUG: leucocytoplania <= tepal
+DEBUG: metrophotography <= tepal
+DEBUG: mycosterol <= tepal
+DEBUG: omnimeter <= tepal
+DEBUG: overquickly <= tepal
+DEBUG: precontroversy <= tepal
+DEBUG: propeller <= tepal
+DEBUG: prosogyrate <= tepal
+DEBUG: recuperation <= tepal
+DEBUG: semisucculent <= tepal
+DEBUG: subbourdon <= tepal
+DEBUG: thysanurous > tepal so return 0x621980
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert goburra 30 in sorted order
+DEBUG: anhalouidine <= goburra
+DEBUG: antimasonry <= goburra
+DEBUG: apocynum <= goburra
+DEBUG: autem <= goburra
+DEBUG: clinopodium <= goburra
+DEBUG: dacryon <= goburra
+DEBUG: doucely <= goburra
+DEBUG: droitural <= goburra
+DEBUG: dynamogenic <= goburra
+DEBUG: humorist > goburra so return 0x6216b0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert nonaristocratic 31 in sorted order
+DEBUG: anhalouidine <= nonaristocratic
+DEBUG: antimasonry <= nonaristocratic
+DEBUG: apocynum <= nonaristocratic
+DEBUG: autem <= nonaristocratic
+DEBUG: clinopodium <= nonaristocratic
+DEBUG: dacryon <= nonaristocratic
+DEBUG: doucely <= nonaristocratic
+DEBUG: droitural <= nonaristocratic
+DEBUG: dynamogenic <= nonaristocratic
+DEBUG: goburra <= nonaristocratic
+DEBUG: humorist <= nonaristocratic
+DEBUG: infraterritorial <= nonaristocratic
+DEBUG: leucocytoplania <= nonaristocratic
+DEBUG: metrophotography <= nonaristocratic
+DEBUG: mycosterol <= nonaristocratic
+DEBUG: omnimeter > nonaristocratic so return 0x621ac0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert setoff 32 in sorted order
+DEBUG: anhalouidine <= setoff
+DEBUG: antimasonry <= setoff
+DEBUG: apocynum <= setoff
+DEBUG: autem <= setoff
+DEBUG: clinopodium <= setoff
+DEBUG: dacryon <= setoff
+DEBUG: doucely <= setoff
+DEBUG: droitural <= setoff
+DEBUG: dynamogenic <= setoff
+DEBUG: goburra <= setoff
+DEBUG: humorist <= setoff
+DEBUG: infraterritorial <= setoff
+DEBUG: leucocytoplania <= setoff
+DEBUG: metrophotography <= setoff
+DEBUG: mycosterol <= setoff
+DEBUG: nonaristocratic <= setoff
+DEBUG: omnimeter <= setoff
+DEBUG: overquickly <= setoff
+DEBUG: precontroversy <= setoff
+DEBUG: propeller <= setoff
+DEBUG: prosogyrate <= setoff
+DEBUG: recuperation <= setoff
+DEBUG: semisucculent <= setoff
+DEBUG: subbourdon > setoff so return 0x621a20
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+recuperation 15
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert rebeck 33 in sorted order
+DEBUG: anhalouidine <= rebeck
+DEBUG: antimasonry <= rebeck
+DEBUG: apocynum <= rebeck
+DEBUG: autem <= rebeck
+DEBUG: clinopodium <= rebeck
+DEBUG: dacryon <= rebeck
+DEBUG: doucely <= rebeck
+DEBUG: droitural <= rebeck
+DEBUG: dynamogenic <= rebeck
+DEBUG: goburra <= rebeck
+DEBUG: humorist <= rebeck
+DEBUG: infraterritorial <= rebeck
+DEBUG: leucocytoplania <= rebeck
+DEBUG: metrophotography <= rebeck
+DEBUG: mycosterol <= rebeck
+DEBUG: nonaristocratic <= rebeck
+DEBUG: omnimeter <= rebeck
+DEBUG: overquickly <= rebeck
+DEBUG: precontroversy <= rebeck
+DEBUG: propeller <= rebeck
+DEBUG: prosogyrate <= rebeck
+DEBUG: recuperation > rebeck so return 0x621390
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert cropper 34 in sorted order
+DEBUG: anhalouidine <= cropper
+DEBUG: antimasonry <= cropper
+DEBUG: apocynum <= cropper
+DEBUG: autem <= cropper
+DEBUG: clinopodium <= cropper
+DEBUG: dacryon > cropper so return 0x621a70
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert isatic 35 in sorted order
+DEBUG: anhalouidine <= isatic
+DEBUG: antimasonry <= isatic
+DEBUG: apocynum <= isatic
+DEBUG: autem <= isatic
+DEBUG: clinopodium <= isatic
+DEBUG: cropper <= isatic
+DEBUG: dacryon <= isatic
+DEBUG: doucely <= isatic
+DEBUG: droitural <= isatic
+DEBUG: dynamogenic <= isatic
+DEBUG: goburra <= isatic
+DEBUG: humorist <= isatic
+DEBUG: infraterritorial <= isatic
+DEBUG: leucocytoplania > isatic so return 0x6218e0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert uglification 36 in sorted order
+DEBUG: anhalouidine <= uglification
+DEBUG: antimasonry <= uglification
+DEBUG: apocynum <= uglification
+DEBUG: autem <= uglification
+DEBUG: clinopodium <= uglification
+DEBUG: cropper <= uglification
+DEBUG: dacryon <= uglification
+DEBUG: doucely <= uglification
+DEBUG: droitural <= uglification
+DEBUG: dynamogenic <= uglification
+DEBUG: goburra <= uglification
+DEBUG: humorist <= uglification
+DEBUG: infraterritorial <= uglification
+DEBUG: isatic <= uglification
+DEBUG: leucocytoplania <= uglification
+DEBUG: metrophotography <= uglification
+DEBUG: mycosterol <= uglification
+DEBUG: nonaristocratic <= uglification
+DEBUG: omnimeter <= uglification
+DEBUG: overquickly <= uglification
+DEBUG: precontroversy <= uglification
+DEBUG: propeller <= uglification
+DEBUG: prosogyrate <= uglification
+DEBUG: rebeck <= uglification
+DEBUG: recuperation <= uglification
+DEBUG: semisucculent <= uglification
+DEBUG: setoff <= uglification
+DEBUG: subbourdon <= uglification
+DEBUG: tepal <= uglification
+DEBUG: thysanurous <= uglification
+DEBUG: ulotrichaceous > uglification so return 0x621430
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert salva 37 in sorted order
+DEBUG: anhalouidine <= salva
+DEBUG: antimasonry <= salva
+DEBUG: apocynum <= salva
+DEBUG: autem <= salva
+DEBUG: clinopodium <= salva
+DEBUG: cropper <= salva
+DEBUG: dacryon <= salva
+DEBUG: doucely <= salva
+DEBUG: droitural <= salva
+DEBUG: dynamogenic <= salva
+DEBUG: goburra <= salva
+DEBUG: humorist <= salva
+DEBUG: infraterritorial <= salva
+DEBUG: isatic <= salva
+DEBUG: leucocytoplania <= salva
+DEBUG: metrophotography <= salva
+DEBUG: mycosterol <= salva
+DEBUG: nonaristocratic <= salva
+DEBUG: omnimeter <= salva
+DEBUG: overquickly <= salva
+DEBUG: precontroversy <= salva
+DEBUG: propeller <= salva
+DEBUG: prosogyrate <= salva
+DEBUG: rebeck <= salva
+DEBUG: recuperation <= salva
+DEBUG: semisucculent > salva so return 0x621700
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert mastigophora 38 in sorted order
+DEBUG: anhalouidine <= mastigophora
+DEBUG: antimasonry <= mastigophora
+DEBUG: apocynum <= mastigophora
+DEBUG: autem <= mastigophora
+DEBUG: clinopodium <= mastigophora
+DEBUG: cropper <= mastigophora
+DEBUG: dacryon <= mastigophora
+DEBUG: doucely <= mastigophora
+DEBUG: droitural <= mastigophora
+DEBUG: dynamogenic <= mastigophora
+DEBUG: goburra <= mastigophora
+DEBUG: humorist <= mastigophora
+DEBUG: infraterritorial <= mastigophora
+DEBUG: isatic <= mastigophora
+DEBUG: leucocytoplania <= mastigophora
+DEBUG: metrophotography > mastigophora so return 0x621520
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert catechismal 39 in sorted order
+DEBUG: anhalouidine <= catechismal
+DEBUG: antimasonry <= catechismal
+DEBUG: apocynum <= catechismal
+DEBUG: autem <= catechismal
+DEBUG: clinopodium > catechismal so return 0x621840
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert securifera 40 in sorted order
+DEBUG: anhalouidine <= securifera
+DEBUG: antimasonry <= securifera
+DEBUG: apocynum <= securifera
+DEBUG: autem <= securifera
+DEBUG: catechismal <= securifera
+DEBUG: clinopodium <= securifera
+DEBUG: cropper <= securifera
+DEBUG: dacryon <= securifera
+DEBUG: doucely <= securifera
+DEBUG: droitural <= securifera
+DEBUG: dynamogenic <= securifera
+DEBUG: goburra <= securifera
+DEBUG: humorist <= securifera
+DEBUG: infraterritorial <= securifera
+DEBUG: isatic <= securifera
+DEBUG: leucocytoplania <= securifera
+DEBUG: mastigophora <= securifera
+DEBUG: metrophotography <= securifera
+DEBUG: mycosterol <= securifera
+DEBUG: nonaristocratic <= securifera
+DEBUG: omnimeter <= securifera
+DEBUG: overquickly <= securifera
+DEBUG: precontroversy <= securifera
+DEBUG: propeller <= securifera
+DEBUG: prosogyrate <= securifera
+DEBUG: rebeck <= securifera
+DEBUG: recuperation <= securifera
+DEBUG: salva <= securifera
+DEBUG: semisucculent > securifera so return 0x621de0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert em 41 in sorted order
+DEBUG: anhalouidine <= em
+DEBUG: antimasonry <= em
+DEBUG: apocynum <= em
+DEBUG: autem <= em
+DEBUG: catechismal <= em
+DEBUG: clinopodium <= em
+DEBUG: cropper <= em
+DEBUG: dacryon <= em
+DEBUG: doucely <= em
+DEBUG: droitural <= em
+DEBUG: dynamogenic <= em
+DEBUG: goburra > em so return 0x6216b0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert pneumonolith 42 in sorted order
+DEBUG: anhalouidine <= pneumonolith
+DEBUG: antimasonry <= pneumonolith
+DEBUG: apocynum <= pneumonolith
+DEBUG: autem <= pneumonolith
+DEBUG: catechismal <= pneumonolith
+DEBUG: clinopodium <= pneumonolith
+DEBUG: cropper <= pneumonolith
+DEBUG: dacryon <= pneumonolith
+DEBUG: doucely <= pneumonolith
+DEBUG: droitural <= pneumonolith
+DEBUG: dynamogenic <= pneumonolith
+DEBUG: em <= pneumonolith
+DEBUG: goburra <= pneumonolith
+DEBUG: humorist <= pneumonolith
+DEBUG: infraterritorial <= pneumonolith
+DEBUG: isatic <= pneumonolith
+DEBUG: leucocytoplania <= pneumonolith
+DEBUG: mastigophora <= pneumonolith
+DEBUG: metrophotography <= pneumonolith
+DEBUG: mycosterol <= pneumonolith
+DEBUG: nonaristocratic <= pneumonolith
+DEBUG: omnimeter <= pneumonolith
+DEBUG: overquickly <= pneumonolith
+DEBUG: precontroversy > pneumonolith so return 0x621480
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert suspensation 43 in sorted order
+DEBUG: anhalouidine <= suspensation
+DEBUG: antimasonry <= suspensation
+DEBUG: apocynum <= suspensation
+DEBUG: autem <= suspensation
+DEBUG: catechismal <= suspensation
+DEBUG: clinopodium <= suspensation
+DEBUG: cropper <= suspensation
+DEBUG: dacryon <= suspensation
+DEBUG: doucely <= suspensation
+DEBUG: droitural <= suspensation
+DEBUG: dynamogenic <= suspensation
+DEBUG: em <= suspensation
+DEBUG: goburra <= suspensation
+DEBUG: humorist <= suspensation
+DEBUG: infraterritorial <= suspensation
+DEBUG: isatic <= suspensation
+DEBUG: leucocytoplania <= suspensation
+DEBUG: mastigophora <= suspensation
+DEBUG: metrophotography <= suspensation
+DEBUG: mycosterol <= suspensation
+DEBUG: nonaristocratic <= suspensation
+DEBUG: omnimeter <= suspensation
+DEBUG: overquickly <= suspensation
+DEBUG: pneumonolith <= suspensation
+DEBUG: precontroversy <= suspensation
+DEBUG: propeller <= suspensation
+DEBUG: prosogyrate <= suspensation
+DEBUG: rebeck <= suspensation
+DEBUG: recuperation <= suspensation
+DEBUG: salva <= suspensation
+DEBUG: securifera <= suspensation
+DEBUG: semisucculent <= suspensation
+DEBUG: setoff <= suspensation
+DEBUG: subbourdon <= suspensation
+DEBUG: tepal > suspensation so return 0x621980
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert surplusage 44 in sorted order
+DEBUG: anhalouidine <= surplusage
+DEBUG: antimasonry <= surplusage
+DEBUG: apocynum <= surplusage
+DEBUG: autem <= surplusage
+DEBUG: catechismal <= surplusage
+DEBUG: clinopodium <= surplusage
+DEBUG: cropper <= surplusage
+DEBUG: dacryon <= surplusage
+DEBUG: doucely <= surplusage
+DEBUG: droitural <= surplusage
+DEBUG: dynamogenic <= surplusage
+DEBUG: em <= surplusage
+DEBUG: goburra <= surplusage
+DEBUG: humorist <= surplusage
+DEBUG: infraterritorial <= surplusage
+DEBUG: isatic <= surplusage
+DEBUG: leucocytoplania <= surplusage
+DEBUG: mastigophora <= surplusage
+DEBUG: metrophotography <= surplusage
+DEBUG: mycosterol <= surplusage
+DEBUG: nonaristocratic <= surplusage
+DEBUG: omnimeter <= surplusage
+DEBUG: overquickly <= surplusage
+DEBUG: pneumonolith <= surplusage
+DEBUG: precontroversy <= surplusage
+DEBUG: propeller <= surplusage
+DEBUG: prosogyrate <= surplusage
+DEBUG: rebeck <= surplusage
+DEBUG: recuperation <= surplusage
+DEBUG: salva <= surplusage
+DEBUG: securifera <= surplusage
+DEBUG: semisucculent <= surplusage
+DEBUG: setoff <= surplusage
+DEBUG: subbourdon <= surplusage
+DEBUG: suspensation > surplusage so return 0x621980
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert nonperiodical 45 in sorted order
+DEBUG: anhalouidine <= nonperiodical
+DEBUG: antimasonry <= nonperiodical
+DEBUG: apocynum <= nonperiodical
+DEBUG: autem <= nonperiodical
+DEBUG: catechismal <= nonperiodical
+DEBUG: clinopodium <= nonperiodical
+DEBUG: cropper <= nonperiodical
+DEBUG: dacryon <= nonperiodical
+DEBUG: doucely <= nonperiodical
+DEBUG: droitural <= nonperiodical
+DEBUG: dynamogenic <= nonperiodical
+DEBUG: em <= nonperiodical
+DEBUG: goburra <= nonperiodical
+DEBUG: humorist <= nonperiodical
+DEBUG: infraterritorial <= nonperiodical
+DEBUG: isatic <= nonperiodical
+DEBUG: leucocytoplania <= nonperiodical
+DEBUG: mastigophora <= nonperiodical
+DEBUG: metrophotography <= nonperiodical
+DEBUG: mycosterol <= nonperiodical
+DEBUG: nonaristocratic <= nonperiodical
+DEBUG: omnimeter > nonperiodical so return 0x621c00
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert each 46 in sorted order
+DEBUG: anhalouidine <= each
+DEBUG: antimasonry <= each
+DEBUG: apocynum <= each
+DEBUG: autem <= each
+DEBUG: catechismal <= each
+DEBUG: clinopodium <= each
+DEBUG: cropper <= each
+DEBUG: dacryon <= each
+DEBUG: doucely <= each
+DEBUG: droitural <= each
+DEBUG: dynamogenic <= each
+DEBUG: em > each so return 0x6216b0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert guildic 47 in sorted order
+DEBUG: anhalouidine <= guildic
+DEBUG: antimasonry <= guildic
+DEBUG: apocynum <= guildic
+DEBUG: autem <= guildic
+DEBUG: catechismal <= guildic
+DEBUG: clinopodium <= guildic
+DEBUG: cropper <= guildic
+DEBUG: dacryon <= guildic
+DEBUG: doucely <= guildic
+DEBUG: droitural <= guildic
+DEBUG: dynamogenic <= guildic
+DEBUG: each <= guildic
+DEBUG: em <= guildic
+DEBUG: goburra <= guildic
+DEBUG: humorist > guildic so return 0x621bb0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+viverrine 24
+waistcoatless 28
+Insert untyrannical 48 in sorted order
+DEBUG: anhalouidine <= untyrannical
+DEBUG: antimasonry <= untyrannical
+DEBUG: apocynum <= untyrannical
+DEBUG: autem <= untyrannical
+DEBUG: catechismal <= untyrannical
+DEBUG: clinopodium <= untyrannical
+DEBUG: cropper <= untyrannical
+DEBUG: dacryon <= untyrannical
+DEBUG: doucely <= untyrannical
+DEBUG: droitural <= untyrannical
+DEBUG: dynamogenic <= untyrannical
+DEBUG: each <= untyrannical
+DEBUG: em <= untyrannical
+DEBUG: goburra <= untyrannical
+DEBUG: guildic <= untyrannical
+DEBUG: humorist <= untyrannical
+DEBUG: infraterritorial <= untyrannical
+DEBUG: isatic <= untyrannical
+DEBUG: leucocytoplania <= untyrannical
+DEBUG: mastigophora <= untyrannical
+DEBUG: metrophotography <= untyrannical
+DEBUG: mycosterol <= untyrannical
+DEBUG: nonaristocratic <= untyrannical
+DEBUG: nonperiodical <= untyrannical
+DEBUG: omnimeter <= untyrannical
+DEBUG: overquickly <= untyrannical
+DEBUG: pneumonolith <= untyrannical
+DEBUG: precontroversy <= untyrannical
+DEBUG: propeller <= untyrannical
+DEBUG: prosogyrate <= untyrannical
+DEBUG: rebeck <= untyrannical
+DEBUG: recuperation <= untyrannical
+DEBUG: salva <= untyrannical
+DEBUG: securifera <= untyrannical
+DEBUG: semisucculent <= untyrannical
+DEBUG: setoff <= untyrannical
+DEBUG: subbourdon <= untyrannical
+DEBUG: surplusage <= untyrannical
+DEBUG: suspensation <= untyrannical
+DEBUG: tepal <= untyrannical
+DEBUG: thysanurous <= untyrannical
+DEBUG: uglification <= untyrannical
+DEBUG: ulotrichaceous <= untyrannical
+DEBUG: undevious <= untyrannical
+DEBUG: unforsaken <= untyrannical
+DEBUG: unread <= untyrannical
+DEBUG: viverrine > untyrannical so return 0x621340
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert nontestamentary 49 in sorted order
+DEBUG: anhalouidine <= nontestamentary
+DEBUG: antimasonry <= nontestamentary
+DEBUG: apocynum <= nontestamentary
+DEBUG: autem <= nontestamentary
+DEBUG: catechismal <= nontestamentary
+DEBUG: clinopodium <= nontestamentary
+DEBUG: cropper <= nontestamentary
+DEBUG: dacryon <= nontestamentary
+DEBUG: doucely <= nontestamentary
+DEBUG: droitural <= nontestamentary
+DEBUG: dynamogenic <= nontestamentary
+DEBUG: each <= nontestamentary
+DEBUG: em <= nontestamentary
+DEBUG: goburra <= nontestamentary
+DEBUG: guildic <= nontestamentary
+DEBUG: humorist <= nontestamentary
+DEBUG: infraterritorial <= nontestamentary
+DEBUG: isatic <= nontestamentary
+DEBUG: leucocytoplania <= nontestamentary
+DEBUG: mastigophora <= nontestamentary
+DEBUG: metrophotography <= nontestamentary
+DEBUG: mycosterol <= nontestamentary
+DEBUG: nonaristocratic <= nontestamentary
+DEBUG: nonperiodical <= nontestamentary
+DEBUG: omnimeter > nontestamentary so return 0x622060
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert dewclawed 50 in sorted order
+DEBUG: anhalouidine <= dewclawed
+DEBUG: antimasonry <= dewclawed
+DEBUG: apocynum <= dewclawed
+DEBUG: autem <= dewclawed
+DEBUG: catechismal <= dewclawed
+DEBUG: clinopodium <= dewclawed
+DEBUG: cropper <= dewclawed
+DEBUG: dacryon <= dewclawed
+DEBUG: doucely > dewclawed so return 0x6212f0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert taloned 51 in sorted order
+DEBUG: anhalouidine <= taloned
+DEBUG: antimasonry <= taloned
+DEBUG: apocynum <= taloned
+DEBUG: autem <= taloned
+DEBUG: catechismal <= taloned
+DEBUG: clinopodium <= taloned
+DEBUG: cropper <= taloned
+DEBUG: dacryon <= taloned
+DEBUG: dewclawed <= taloned
+DEBUG: doucely <= taloned
+DEBUG: droitural <= taloned
+DEBUG: dynamogenic <= taloned
+DEBUG: each <= taloned
+DEBUG: em <= taloned
+DEBUG: goburra <= taloned
+DEBUG: guildic <= taloned
+DEBUG: humorist <= taloned
+DEBUG: infraterritorial <= taloned
+DEBUG: isatic <= taloned
+DEBUG: leucocytoplania <= taloned
+DEBUG: mastigophora <= taloned
+DEBUG: metrophotography <= taloned
+DEBUG: mycosterol <= taloned
+DEBUG: nonaristocratic <= taloned
+DEBUG: nonperiodical <= taloned
+DEBUG: nontestamentary <= taloned
+DEBUG: omnimeter <= taloned
+DEBUG: overquickly <= taloned
+DEBUG: pneumonolith <= taloned
+DEBUG: precontroversy <= taloned
+DEBUG: propeller <= taloned
+DEBUG: prosogyrate <= taloned
+DEBUG: rebeck <= taloned
+DEBUG: recuperation <= taloned
+DEBUG: salva <= taloned
+DEBUG: securifera <= taloned
+DEBUG: semisucculent <= taloned
+DEBUG: setoff <= taloned
+DEBUG: subbourdon <= taloned
+DEBUG: surplusage <= taloned
+DEBUG: suspensation <= taloned
+DEBUG: tepal > taloned so return 0x621fc0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert pyrocatechuic 52 in sorted order
+DEBUG: anhalouidine <= pyrocatechuic
+DEBUG: antimasonry <= pyrocatechuic
+DEBUG: apocynum <= pyrocatechuic
+DEBUG: autem <= pyrocatechuic
+DEBUG: catechismal <= pyrocatechuic
+DEBUG: clinopodium <= pyrocatechuic
+DEBUG: cropper <= pyrocatechuic
+DEBUG: dacryon <= pyrocatechuic
+DEBUG: dewclawed <= pyrocatechuic
+DEBUG: doucely <= pyrocatechuic
+DEBUG: droitural <= pyrocatechuic
+DEBUG: dynamogenic <= pyrocatechuic
+DEBUG: each <= pyrocatechuic
+DEBUG: em <= pyrocatechuic
+DEBUG: goburra <= pyrocatechuic
+DEBUG: guildic <= pyrocatechuic
+DEBUG: humorist <= pyrocatechuic
+DEBUG: infraterritorial <= pyrocatechuic
+DEBUG: isatic <= pyrocatechuic
+DEBUG: leucocytoplania <= pyrocatechuic
+DEBUG: mastigophora <= pyrocatechuic
+DEBUG: metrophotography <= pyrocatechuic
+DEBUG: mycosterol <= pyrocatechuic
+DEBUG: nonaristocratic <= pyrocatechuic
+DEBUG: nonperiodical <= pyrocatechuic
+DEBUG: nontestamentary <= pyrocatechuic
+DEBUG: omnimeter <= pyrocatechuic
+DEBUG: overquickly <= pyrocatechuic
+DEBUG: pneumonolith <= pyrocatechuic
+DEBUG: precontroversy <= pyrocatechuic
+DEBUG: propeller <= pyrocatechuic
+DEBUG: prosogyrate <= pyrocatechuic
+DEBUG: rebeck > pyrocatechuic so return 0x621390
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert specificative 53 in sorted order
+DEBUG: anhalouidine <= specificative
+DEBUG: antimasonry <= specificative
+DEBUG: apocynum <= specificative
+DEBUG: autem <= specificative
+DEBUG: catechismal <= specificative
+DEBUG: clinopodium <= specificative
+DEBUG: cropper <= specificative
+DEBUG: dacryon <= specificative
+DEBUG: dewclawed <= specificative
+DEBUG: doucely <= specificative
+DEBUG: droitural <= specificative
+DEBUG: dynamogenic <= specificative
+DEBUG: each <= specificative
+DEBUG: em <= specificative
+DEBUG: goburra <= specificative
+DEBUG: guildic <= specificative
+DEBUG: humorist <= specificative
+DEBUG: infraterritorial <= specificative
+DEBUG: isatic <= specificative
+DEBUG: leucocytoplania <= specificative
+DEBUG: mastigophora <= specificative
+DEBUG: metrophotography <= specificative
+DEBUG: mycosterol <= specificative
+DEBUG: nonaristocratic <= specificative
+DEBUG: nonperiodical <= specificative
+DEBUG: nontestamentary <= specificative
+DEBUG: omnimeter <= specificative
+DEBUG: overquickly <= specificative
+DEBUG: pneumonolith <= specificative
+DEBUG: precontroversy <= specificative
+DEBUG: propeller <= specificative
+DEBUG: prosogyrate <= specificative
+DEBUG: pyrocatechuic <= specificative
+DEBUG: rebeck <= specificative
+DEBUG: recuperation <= specificative
+DEBUG: salva <= specificative
+DEBUG: securifera <= specificative
+DEBUG: semisucculent <= specificative
+DEBUG: setoff <= specificative
+DEBUG: subbourdon > specificative so return 0x621c50
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert iodate 54 in sorted order
+DEBUG: anhalouidine <= iodate
+DEBUG: antimasonry <= iodate
+DEBUG: apocynum <= iodate
+DEBUG: autem <= iodate
+DEBUG: catechismal <= iodate
+DEBUG: clinopodium <= iodate
+DEBUG: cropper <= iodate
+DEBUG: dacryon <= iodate
+DEBUG: dewclawed <= iodate
+DEBUG: doucely <= iodate
+DEBUG: droitural <= iodate
+DEBUG: dynamogenic <= iodate
+DEBUG: each <= iodate
+DEBUG: em <= iodate
+DEBUG: goburra <= iodate
+DEBUG: guildic <= iodate
+DEBUG: humorist <= iodate
+DEBUG: infraterritorial <= iodate
+DEBUG: isatic > iodate so return 0x6218e0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert clarin 55 in sorted order
+DEBUG: anhalouidine <= clarin
+DEBUG: antimasonry <= clarin
+DEBUG: apocynum <= clarin
+DEBUG: autem <= clarin
+DEBUG: catechismal <= clarin
+DEBUG: clinopodium > clarin so return 0x621e80
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+viverrine 24
+waistcoatless 28
+Insert vagueness 56 in sorted order
+DEBUG: anhalouidine <= vagueness
+DEBUG: antimasonry <= vagueness
+DEBUG: apocynum <= vagueness
+DEBUG: autem <= vagueness
+DEBUG: catechismal <= vagueness
+DEBUG: clarin <= vagueness
+DEBUG: clinopodium <= vagueness
+DEBUG: cropper <= vagueness
+DEBUG: dacryon <= vagueness
+DEBUG: dewclawed <= vagueness
+DEBUG: doucely <= vagueness
+DEBUG: droitural <= vagueness
+DEBUG: dynamogenic <= vagueness
+DEBUG: each <= vagueness
+DEBUG: em <= vagueness
+DEBUG: goburra <= vagueness
+DEBUG: guildic <= vagueness
+DEBUG: humorist <= vagueness
+DEBUG: infraterritorial <= vagueness
+DEBUG: iodate <= vagueness
+DEBUG: isatic <= vagueness
+DEBUG: leucocytoplania <= vagueness
+DEBUG: mastigophora <= vagueness
+DEBUG: metrophotography <= vagueness
+DEBUG: mycosterol <= vagueness
+DEBUG: nonaristocratic <= vagueness
+DEBUG: nonperiodical <= vagueness
+DEBUG: nontestamentary <= vagueness
+DEBUG: omnimeter <= vagueness
+DEBUG: overquickly <= vagueness
+DEBUG: pneumonolith <= vagueness
+DEBUG: precontroversy <= vagueness
+DEBUG: propeller <= vagueness
+DEBUG: prosogyrate <= vagueness
+DEBUG: pyrocatechuic <= vagueness
+DEBUG: rebeck <= vagueness
+DEBUG: recuperation <= vagueness
+DEBUG: salva <= vagueness
+DEBUG: securifera <= vagueness
+DEBUG: semisucculent <= vagueness
+DEBUG: setoff <= vagueness
+DEBUG: specificative <= vagueness
+DEBUG: subbourdon <= vagueness
+DEBUG: surplusage <= vagueness
+DEBUG: suspensation <= vagueness
+DEBUG: taloned <= vagueness
+DEBUG: tepal <= vagueness
+DEBUG: thysanurous <= vagueness
+DEBUG: uglification <= vagueness
+DEBUG: ulotrichaceous <= vagueness
+DEBUG: undevious <= vagueness
+DEBUG: unforsaken <= vagueness
+DEBUG: unread <= vagueness
+DEBUG: untyrannical <= vagueness
+DEBUG: viverrine > vagueness so return 0x622150
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert subplantigrade 57 in sorted order
+DEBUG: anhalouidine <= subplantigrade
+DEBUG: antimasonry <= subplantigrade
+DEBUG: apocynum <= subplantigrade
+DEBUG: autem <= subplantigrade
+DEBUG: catechismal <= subplantigrade
+DEBUG: clarin <= subplantigrade
+DEBUG: clinopodium <= subplantigrade
+DEBUG: cropper <= subplantigrade
+DEBUG: dacryon <= subplantigrade
+DEBUG: dewclawed <= subplantigrade
+DEBUG: doucely <= subplantigrade
+DEBUG: droitural <= subplantigrade
+DEBUG: dynamogenic <= subplantigrade
+DEBUG: each <= subplantigrade
+DEBUG: em <= subplantigrade
+DEBUG: goburra <= subplantigrade
+DEBUG: guildic <= subplantigrade
+DEBUG: humorist <= subplantigrade
+DEBUG: infraterritorial <= subplantigrade
+DEBUG: iodate <= subplantigrade
+DEBUG: isatic <= subplantigrade
+DEBUG: leucocytoplania <= subplantigrade
+DEBUG: mastigophora <= subplantigrade
+DEBUG: metrophotography <= subplantigrade
+DEBUG: mycosterol <= subplantigrade
+DEBUG: nonaristocratic <= subplantigrade
+DEBUG: nonperiodical <= subplantigrade
+DEBUG: nontestamentary <= subplantigrade
+DEBUG: omnimeter <= subplantigrade
+DEBUG: overquickly <= subplantigrade
+DEBUG: pneumonolith <= subplantigrade
+DEBUG: precontroversy <= subplantigrade
+DEBUG: propeller <= subplantigrade
+DEBUG: prosogyrate <= subplantigrade
+DEBUG: pyrocatechuic <= subplantigrade
+DEBUG: rebeck <= subplantigrade
+DEBUG: recuperation <= subplantigrade
+DEBUG: salva <= subplantigrade
+DEBUG: securifera <= subplantigrade
+DEBUG: semisucculent <= subplantigrade
+DEBUG: setoff <= subplantigrade
+DEBUG: specificative <= subplantigrade
+DEBUG: subbourdon <= subplantigrade
+DEBUG: surplusage > subplantigrade so return 0x621980
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert monochromatism 58 in sorted order
+DEBUG: anhalouidine <= monochromatism
+DEBUG: antimasonry <= monochromatism
+DEBUG: apocynum <= monochromatism
+DEBUG: autem <= monochromatism
+DEBUG: catechismal <= monochromatism
+DEBUG: clarin <= monochromatism
+DEBUG: clinopodium <= monochromatism
+DEBUG: cropper <= monochromatism
+DEBUG: dacryon <= monochromatism
+DEBUG: dewclawed <= monochromatism
+DEBUG: doucely <= monochromatism
+DEBUG: droitural <= monochromatism
+DEBUG: dynamogenic <= monochromatism
+DEBUG: each <= monochromatism
+DEBUG: em <= monochromatism
+DEBUG: goburra <= monochromatism
+DEBUG: guildic <= monochromatism
+DEBUG: humorist <= monochromatism
+DEBUG: infraterritorial <= monochromatism
+DEBUG: iodate <= monochromatism
+DEBUG: isatic <= monochromatism
+DEBUG: leucocytoplania <= monochromatism
+DEBUG: mastigophora <= monochromatism
+DEBUG: metrophotography <= monochromatism
+DEBUG: mycosterol > monochromatism so return 0x621570
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert hypodermal 59 in sorted order
+DEBUG: anhalouidine <= hypodermal
+DEBUG: antimasonry <= hypodermal
+DEBUG: apocynum <= hypodermal
+DEBUG: autem <= hypodermal
+DEBUG: catechismal <= hypodermal
+DEBUG: clarin <= hypodermal
+DEBUG: clinopodium <= hypodermal
+DEBUG: cropper <= hypodermal
+DEBUG: dacryon <= hypodermal
+DEBUG: dewclawed <= hypodermal
+DEBUG: doucely <= hypodermal
+DEBUG: droitural <= hypodermal
+DEBUG: dynamogenic <= hypodermal
+DEBUG: each <= hypodermal
+DEBUG: em <= hypodermal
+DEBUG: goburra <= hypodermal
+DEBUG: guildic <= hypodermal
+DEBUG: humorist <= hypodermal
+DEBUG: infraterritorial > hypodermal so return 0x621660
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert autoinfection 60 in sorted order
+DEBUG: anhalouidine <= autoinfection
+DEBUG: antimasonry <= autoinfection
+DEBUG: apocynum <= autoinfection
+DEBUG: autem <= autoinfection
+DEBUG: catechismal > autoinfection so return 0x621840
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert moneybag 61 in sorted order
+DEBUG: anhalouidine <= moneybag
+DEBUG: antimasonry <= moneybag
+DEBUG: apocynum <= moneybag
+DEBUG: autem <= moneybag
+DEBUG: autoinfection <= moneybag
+DEBUG: catechismal <= moneybag
+DEBUG: clarin <= moneybag
+DEBUG: clinopodium <= moneybag
+DEBUG: cropper <= moneybag
+DEBUG: dacryon <= moneybag
+DEBUG: dewclawed <= moneybag
+DEBUG: doucely <= moneybag
+DEBUG: droitural <= moneybag
+DEBUG: dynamogenic <= moneybag
+DEBUG: each <= moneybag
+DEBUG: em <= moneybag
+DEBUG: goburra <= moneybag
+DEBUG: guildic <= moneybag
+DEBUG: humorist <= moneybag
+DEBUG: hypodermal <= moneybag
+DEBUG: infraterritorial <= moneybag
+DEBUG: iodate <= moneybag
+DEBUG: isatic <= moneybag
+DEBUG: leucocytoplania <= moneybag
+DEBUG: mastigophora <= moneybag
+DEBUG: metrophotography <= moneybag
+DEBUG: monochromatism > moneybag so return 0x621570
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert pneumohydrothorax 62 in sorted order
+DEBUG: anhalouidine <= pneumohydrothorax
+DEBUG: antimasonry <= pneumohydrothorax
+DEBUG: apocynum <= pneumohydrothorax
+DEBUG: autem <= pneumohydrothorax
+DEBUG: autoinfection <= pneumohydrothorax
+DEBUG: catechismal <= pneumohydrothorax
+DEBUG: clarin <= pneumohydrothorax
+DEBUG: clinopodium <= pneumohydrothorax
+DEBUG: cropper <= pneumohydrothorax
+DEBUG: dacryon <= pneumohydrothorax
+DEBUG: dewclawed <= pneumohydrothorax
+DEBUG: doucely <= pneumohydrothorax
+DEBUG: droitural <= pneumohydrothorax
+DEBUG: dynamogenic <= pneumohydrothorax
+DEBUG: each <= pneumohydrothorax
+DEBUG: em <= pneumohydrothorax
+DEBUG: goburra <= pneumohydrothorax
+DEBUG: guildic <= pneumohydrothorax
+DEBUG: humorist <= pneumohydrothorax
+DEBUG: hypodermal <= pneumohydrothorax
+DEBUG: infraterritorial <= pneumohydrothorax
+DEBUG: iodate <= pneumohydrothorax
+DEBUG: isatic <= pneumohydrothorax
+DEBUG: leucocytoplania <= pneumohydrothorax
+DEBUG: mastigophora <= pneumohydrothorax
+DEBUG: metrophotography <= pneumohydrothorax
+DEBUG: moneybag <= pneumohydrothorax
+DEBUG: monochromatism <= pneumohydrothorax
+DEBUG: mycosterol <= pneumohydrothorax
+DEBUG: nonaristocratic <= pneumohydrothorax
+DEBUG: nonperiodical <= pneumohydrothorax
+DEBUG: nontestamentary <= pneumohydrothorax
+DEBUG: omnimeter <= pneumohydrothorax
+DEBUG: overquickly <= pneumohydrothorax
+DEBUG: pneumonolith > pneumohydrothorax so return 0x621480
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert unexemplifiable 63 in sorted order
+DEBUG: anhalouidine <= unexemplifiable
+DEBUG: antimasonry <= unexemplifiable
+DEBUG: apocynum <= unexemplifiable
+DEBUG: autem <= unexemplifiable
+DEBUG: autoinfection <= unexemplifiable
+DEBUG: catechismal <= unexemplifiable
+DEBUG: clarin <= unexemplifiable
+DEBUG: clinopodium <= unexemplifiable
+DEBUG: cropper <= unexemplifiable
+DEBUG: dacryon <= unexemplifiable
+DEBUG: dewclawed <= unexemplifiable
+DEBUG: doucely <= unexemplifiable
+DEBUG: droitural <= unexemplifiable
+DEBUG: dynamogenic <= unexemplifiable
+DEBUG: each <= unexemplifiable
+DEBUG: em <= unexemplifiable
+DEBUG: goburra <= unexemplifiable
+DEBUG: guildic <= unexemplifiable
+DEBUG: humorist <= unexemplifiable
+DEBUG: hypodermal <= unexemplifiable
+DEBUG: infraterritorial <= unexemplifiable
+DEBUG: iodate <= unexemplifiable
+DEBUG: isatic <= unexemplifiable
+DEBUG: leucocytoplania <= unexemplifiable
+DEBUG: mastigophora <= unexemplifiable
+DEBUG: metrophotography <= unexemplifiable
+DEBUG: moneybag <= unexemplifiable
+DEBUG: monochromatism <= unexemplifiable
+DEBUG: mycosterol <= unexemplifiable
+DEBUG: nonaristocratic <= unexemplifiable
+DEBUG: nonperiodical <= unexemplifiable
+DEBUG: nontestamentary <= unexemplifiable
+DEBUG: omnimeter <= unexemplifiable
+DEBUG: overquickly <= unexemplifiable
+DEBUG: pneumohydrothorax <= unexemplifiable
+DEBUG: pneumonolith <= unexemplifiable
+DEBUG: precontroversy <= unexemplifiable
+DEBUG: propeller <= unexemplifiable
+DEBUG: prosogyrate <= unexemplifiable
+DEBUG: pyrocatechuic <= unexemplifiable
+DEBUG: rebeck <= unexemplifiable
+DEBUG: recuperation <= unexemplifiable
+DEBUG: salva <= unexemplifiable
+DEBUG: securifera <= unexemplifiable
+DEBUG: semisucculent <= unexemplifiable
+DEBUG: setoff <= unexemplifiable
+DEBUG: specificative <= unexemplifiable
+DEBUG: subbourdon <= unexemplifiable
+DEBUG: subplantigrade <= unexemplifiable
+DEBUG: surplusage <= unexemplifiable
+DEBUG: suspensation <= unexemplifiable
+DEBUG: taloned <= unexemplifiable
+DEBUG: tepal <= unexemplifiable
+DEBUG: thysanurous <= unexemplifiable
+DEBUG: uglification <= unexemplifiable
+DEBUG: ulotrichaceous <= unexemplifiable
+DEBUG: undevious <= unexemplifiable
+DEBUG: unforsaken > unexemplifiable so return 0x621890
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert mouillation 64 in sorted order
+DEBUG: anhalouidine <= mouillation
+DEBUG: antimasonry <= mouillation
+DEBUG: apocynum <= mouillation
+DEBUG: autem <= mouillation
+DEBUG: autoinfection <= mouillation
+DEBUG: catechismal <= mouillation
+DEBUG: clarin <= mouillation
+DEBUG: clinopodium <= mouillation
+DEBUG: cropper <= mouillation
+DEBUG: dacryon <= mouillation
+DEBUG: dewclawed <= mouillation
+DEBUG: doucely <= mouillation
+DEBUG: droitural <= mouillation
+DEBUG: dynamogenic <= mouillation
+DEBUG: each <= mouillation
+DEBUG: em <= mouillation
+DEBUG: goburra <= mouillation
+DEBUG: guildic <= mouillation
+DEBUG: humorist <= mouillation
+DEBUG: hypodermal <= mouillation
+DEBUG: infraterritorial <= mouillation
+DEBUG: iodate <= mouillation
+DEBUG: isatic <= mouillation
+DEBUG: leucocytoplania <= mouillation
+DEBUG: mastigophora <= mouillation
+DEBUG: metrophotography <= mouillation
+DEBUG: moneybag <= mouillation
+DEBUG: monochromatism <= mouillation
+DEBUG: mycosterol > mouillation so return 0x622470
+anhalouidine 11
+antimasonry 1
+apocynum 16
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert applotment 65 in sorted order
+DEBUG: anhalouidine <= applotment
+DEBUG: antimasonry <= applotment
+DEBUG: apocynum <= applotment
+DEBUG: autem > applotment so return 0x621750
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert gulp 66 in sorted order
+DEBUG: anhalouidine <= gulp
+DEBUG: antimasonry <= gulp
+DEBUG: apocynum <= gulp
+DEBUG: applotment <= gulp
+DEBUG: autem <= gulp
+DEBUG: autoinfection <= gulp
+DEBUG: catechismal <= gulp
+DEBUG: clarin <= gulp
+DEBUG: clinopodium <= gulp
+DEBUG: cropper <= gulp
+DEBUG: dacryon <= gulp
+DEBUG: dewclawed <= gulp
+DEBUG: doucely <= gulp
+DEBUG: droitural <= gulp
+DEBUG: dynamogenic <= gulp
+DEBUG: each <= gulp
+DEBUG: em <= gulp
+DEBUG: goburra <= gulp
+DEBUG: guildic <= gulp
+DEBUG: humorist > gulp so return 0x622100
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert blindfolded 67 in sorted order
+DEBUG: anhalouidine <= blindfolded
+DEBUG: antimasonry <= blindfolded
+DEBUG: apocynum <= blindfolded
+DEBUG: applotment <= blindfolded
+DEBUG: autem <= blindfolded
+DEBUG: autoinfection <= blindfolded
+DEBUG: catechismal > blindfolded so return 0x622510
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert sadism 68 in sorted order
+DEBUG: anhalouidine <= sadism
+DEBUG: antimasonry <= sadism
+DEBUG: apocynum <= sadism
+DEBUG: applotment <= sadism
+DEBUG: autem <= sadism
+DEBUG: autoinfection <= sadism
+DEBUG: blindfolded <= sadism
+DEBUG: catechismal <= sadism
+DEBUG: clarin <= sadism
+DEBUG: clinopodium <= sadism
+DEBUG: cropper <= sadism
+DEBUG: dacryon <= sadism
+DEBUG: dewclawed <= sadism
+DEBUG: doucely <= sadism
+DEBUG: droitural <= sadism
+DEBUG: dynamogenic <= sadism
+DEBUG: each <= sadism
+DEBUG: em <= sadism
+DEBUG: goburra <= sadism
+DEBUG: guildic <= sadism
+DEBUG: gulp <= sadism
+DEBUG: humorist <= sadism
+DEBUG: hypodermal <= sadism
+DEBUG: infraterritorial <= sadism
+DEBUG: iodate <= sadism
+DEBUG: isatic <= sadism
+DEBUG: leucocytoplania <= sadism
+DEBUG: mastigophora <= sadism
+DEBUG: metrophotography <= sadism
+DEBUG: moneybag <= sadism
+DEBUG: monochromatism <= sadism
+DEBUG: mouillation <= sadism
+DEBUG: mycosterol <= sadism
+DEBUG: nonaristocratic <= sadism
+DEBUG: nonperiodical <= sadism
+DEBUG: nontestamentary <= sadism
+DEBUG: omnimeter <= sadism
+DEBUG: overquickly <= sadism
+DEBUG: pneumohydrothorax <= sadism
+DEBUG: pneumonolith <= sadism
+DEBUG: precontroversy <= sadism
+DEBUG: propeller <= sadism
+DEBUG: prosogyrate <= sadism
+DEBUG: pyrocatechuic <= sadism
+DEBUG: rebeck <= sadism
+DEBUG: recuperation <= sadism
+DEBUG: salva > sadism so return 0x621700
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert ophism 69 in sorted order
+DEBUG: anhalouidine <= ophism
+DEBUG: antimasonry <= ophism
+DEBUG: apocynum <= ophism
+DEBUG: applotment <= ophism
+DEBUG: autem <= ophism
+DEBUG: autoinfection <= ophism
+DEBUG: blindfolded <= ophism
+DEBUG: catechismal <= ophism
+DEBUG: clarin <= ophism
+DEBUG: clinopodium <= ophism
+DEBUG: cropper <= ophism
+DEBUG: dacryon <= ophism
+DEBUG: dewclawed <= ophism
+DEBUG: doucely <= ophism
+DEBUG: droitural <= ophism
+DEBUG: dynamogenic <= ophism
+DEBUG: each <= ophism
+DEBUG: em <= ophism
+DEBUG: goburra <= ophism
+DEBUG: guildic <= ophism
+DEBUG: gulp <= ophism
+DEBUG: humorist <= ophism
+DEBUG: hypodermal <= ophism
+DEBUG: infraterritorial <= ophism
+DEBUG: iodate <= ophism
+DEBUG: isatic <= ophism
+DEBUG: leucocytoplania <= ophism
+DEBUG: mastigophora <= ophism
+DEBUG: metrophotography <= ophism
+DEBUG: moneybag <= ophism
+DEBUG: monochromatism <= ophism
+DEBUG: mouillation <= ophism
+DEBUG: mycosterol <= ophism
+DEBUG: nonaristocratic <= ophism
+DEBUG: nonperiodical <= ophism
+DEBUG: nontestamentary <= ophism
+DEBUG: omnimeter <= ophism
+DEBUG: overquickly > ophism so return 0x6213e0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert scissorwise 70 in sorted order
+DEBUG: anhalouidine <= scissorwise
+DEBUG: antimasonry <= scissorwise
+DEBUG: apocynum <= scissorwise
+DEBUG: applotment <= scissorwise
+DEBUG: autem <= scissorwise
+DEBUG: autoinfection <= scissorwise
+DEBUG: blindfolded <= scissorwise
+DEBUG: catechismal <= scissorwise
+DEBUG: clarin <= scissorwise
+DEBUG: clinopodium <= scissorwise
+DEBUG: cropper <= scissorwise
+DEBUG: dacryon <= scissorwise
+DEBUG: dewclawed <= scissorwise
+DEBUG: doucely <= scissorwise
+DEBUG: droitural <= scissorwise
+DEBUG: dynamogenic <= scissorwise
+DEBUG: each <= scissorwise
+DEBUG: em <= scissorwise
+DEBUG: goburra <= scissorwise
+DEBUG: guildic <= scissorwise
+DEBUG: gulp <= scissorwise
+DEBUG: humorist <= scissorwise
+DEBUG: hypodermal <= scissorwise
+DEBUG: infraterritorial <= scissorwise
+DEBUG: iodate <= scissorwise
+DEBUG: isatic <= scissorwise
+DEBUG: leucocytoplania <= scissorwise
+DEBUG: mastigophora <= scissorwise
+DEBUG: metrophotography <= scissorwise
+DEBUG: moneybag <= scissorwise
+DEBUG: monochromatism <= scissorwise
+DEBUG: mouillation <= scissorwise
+DEBUG: mycosterol <= scissorwise
+DEBUG: nonaristocratic <= scissorwise
+DEBUG: nonperiodical <= scissorwise
+DEBUG: nontestamentary <= scissorwise
+DEBUG: omnimeter <= scissorwise
+DEBUG: ophism <= scissorwise
+DEBUG: overquickly <= scissorwise
+DEBUG: pneumohydrothorax <= scissorwise
+DEBUG: pneumonolith <= scissorwise
+DEBUG: precontroversy <= scissorwise
+DEBUG: propeller <= scissorwise
+DEBUG: prosogyrate <= scissorwise
+DEBUG: pyrocatechuic <= scissorwise
+DEBUG: rebeck <= scissorwise
+DEBUG: recuperation <= scissorwise
+DEBUG: sadism <= scissorwise
+DEBUG: salva <= scissorwise
+DEBUG: securifera > scissorwise so return 0x621de0
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert unskaithd 71 in sorted order
+DEBUG: anhalouidine <= unskaithd
+DEBUG: antimasonry <= unskaithd
+DEBUG: apocynum <= unskaithd
+DEBUG: applotment <= unskaithd
+DEBUG: autem <= unskaithd
+DEBUG: autoinfection <= unskaithd
+DEBUG: blindfolded <= unskaithd
+DEBUG: catechismal <= unskaithd
+DEBUG: clarin <= unskaithd
+DEBUG: clinopodium <= unskaithd
+DEBUG: cropper <= unskaithd
+DEBUG: dacryon <= unskaithd
+DEBUG: dewclawed <= unskaithd
+DEBUG: doucely <= unskaithd
+DEBUG: droitural <= unskaithd
+DEBUG: dynamogenic <= unskaithd
+DEBUG: each <= unskaithd
+DEBUG: em <= unskaithd
+DEBUG: goburra <= unskaithd
+DEBUG: guildic <= unskaithd
+DEBUG: gulp <= unskaithd
+DEBUG: humorist <= unskaithd
+DEBUG: hypodermal <= unskaithd
+DEBUG: infraterritorial <= unskaithd
+DEBUG: iodate <= unskaithd
+DEBUG: isatic <= unskaithd
+DEBUG: leucocytoplania <= unskaithd
+DEBUG: mastigophora <= unskaithd
+DEBUG: metrophotography <= unskaithd
+DEBUG: moneybag <= unskaithd
+DEBUG: monochromatism <= unskaithd
+DEBUG: mouillation <= unskaithd
+DEBUG: mycosterol <= unskaithd
+DEBUG: nonaristocratic <= unskaithd
+DEBUG: nonperiodical <= unskaithd
+DEBUG: nontestamentary <= unskaithd
+DEBUG: omnimeter <= unskaithd
+DEBUG: ophism <= unskaithd
+DEBUG: overquickly <= unskaithd
+DEBUG: pneumohydrothorax <= unskaithd
+DEBUG: pneumonolith <= unskaithd
+DEBUG: precontroversy <= unskaithd
+DEBUG: propeller <= unskaithd
+DEBUG: prosogyrate <= unskaithd
+DEBUG: pyrocatechuic <= unskaithd
+DEBUG: rebeck <= unskaithd
+DEBUG: recuperation <= unskaithd
+DEBUG: sadism <= unskaithd
+DEBUG: salva <= unskaithd
+DEBUG: scissorwise <= unskaithd
+DEBUG: securifera <= unskaithd
+DEBUG: semisucculent <= unskaithd
+DEBUG: setoff <= unskaithd
+DEBUG: specificative <= unskaithd
+DEBUG: subbourdon <= unskaithd
+DEBUG: subplantigrade <= unskaithd
+DEBUG: surplusage <= unskaithd
+DEBUG: suspensation <= unskaithd
+DEBUG: taloned <= unskaithd
+DEBUG: tepal <= unskaithd
+DEBUG: thysanurous <= unskaithd
+DEBUG: uglification <= unskaithd
+DEBUG: ulotrichaceous <= unskaithd
+DEBUG: undevious <= unskaithd
+DEBUG: unexemplifiable <= unskaithd
+DEBUG: unforsaken <= unskaithd
+DEBUG: unread <= unskaithd
+DEBUG: untyrannical > unskaithd so return 0x621340
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert unreproving 72 in sorted order
+DEBUG: anhalouidine <= unreproving
+DEBUG: antimasonry <= unreproving
+DEBUG: apocynum <= unreproving
+DEBUG: applotment <= unreproving
+DEBUG: autem <= unreproving
+DEBUG: autoinfection <= unreproving
+DEBUG: blindfolded <= unreproving
+DEBUG: catechismal <= unreproving
+DEBUG: clarin <= unreproving
+DEBUG: clinopodium <= unreproving
+DEBUG: cropper <= unreproving
+DEBUG: dacryon <= unreproving
+DEBUG: dewclawed <= unreproving
+DEBUG: doucely <= unreproving
+DEBUG: droitural <= unreproving
+DEBUG: dynamogenic <= unreproving
+DEBUG: each <= unreproving
+DEBUG: em <= unreproving
+DEBUG: goburra <= unreproving
+DEBUG: guildic <= unreproving
+DEBUG: gulp <= unreproving
+DEBUG: humorist <= unreproving
+DEBUG: hypodermal <= unreproving
+DEBUG: infraterritorial <= unreproving
+DEBUG: iodate <= unreproving
+DEBUG: isatic <= unreproving
+DEBUG: leucocytoplania <= unreproving
+DEBUG: mastigophora <= unreproving
+DEBUG: metrophotography <= unreproving
+DEBUG: moneybag <= unreproving
+DEBUG: monochromatism <= unreproving
+DEBUG: mouillation <= unreproving
+DEBUG: mycosterol <= unreproving
+DEBUG: nonaristocratic <= unreproving
+DEBUG: nonperiodical <= unreproving
+DEBUG: nontestamentary <= unreproving
+DEBUG: omnimeter <= unreproving
+DEBUG: ophism <= unreproving
+DEBUG: overquickly <= unreproving
+DEBUG: pneumohydrothorax <= unreproving
+DEBUG: pneumonolith <= unreproving
+DEBUG: precontroversy <= unreproving
+DEBUG: propeller <= unreproving
+DEBUG: prosogyrate <= unreproving
+DEBUG: pyrocatechuic <= unreproving
+DEBUG: rebeck <= unreproving
+DEBUG: recuperation <= unreproving
+DEBUG: sadism <= unreproving
+DEBUG: salva <= unreproving
+DEBUG: scissorwise <= unreproving
+DEBUG: securifera <= unreproving
+DEBUG: semisucculent <= unreproving
+DEBUG: setoff <= unreproving
+DEBUG: specificative <= unreproving
+DEBUG: subbourdon <= unreproving
+DEBUG: subplantigrade <= unreproving
+DEBUG: surplusage <= unreproving
+DEBUG: suspensation <= unreproving
+DEBUG: taloned <= unreproving
+DEBUG: tepal <= unreproving
+DEBUG: thysanurous <= unreproving
+DEBUG: uglification <= unreproving
+DEBUG: ulotrichaceous <= unreproving
+DEBUG: undevious <= unreproving
+DEBUG: unexemplifiable <= unreproving
+DEBUG: unforsaken <= unreproving
+DEBUG: unread <= unreproving
+DEBUG: unskaithd > unreproving so return 0x621340
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert analkalinity 73 in sorted order
+DEBUG: anhalouidine > analkalinity so return (nil)
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert demicoronal 74 in sorted order
+DEBUG: analkalinity <= demicoronal
+DEBUG: anhalouidine <= demicoronal
+DEBUG: antimasonry <= demicoronal
+DEBUG: apocynum <= demicoronal
+DEBUG: applotment <= demicoronal
+DEBUG: autem <= demicoronal
+DEBUG: autoinfection <= demicoronal
+DEBUG: blindfolded <= demicoronal
+DEBUG: catechismal <= demicoronal
+DEBUG: clarin <= demicoronal
+DEBUG: clinopodium <= demicoronal
+DEBUG: cropper <= demicoronal
+DEBUG: dacryon <= demicoronal
+DEBUG: dewclawed > demicoronal so return 0x6212f0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert hypotarsal 75 in sorted order
+DEBUG: analkalinity <= hypotarsal
+DEBUG: anhalouidine <= hypotarsal
+DEBUG: antimasonry <= hypotarsal
+DEBUG: apocynum <= hypotarsal
+DEBUG: applotment <= hypotarsal
+DEBUG: autem <= hypotarsal
+DEBUG: autoinfection <= hypotarsal
+DEBUG: blindfolded <= hypotarsal
+DEBUG: catechismal <= hypotarsal
+DEBUG: clarin <= hypotarsal
+DEBUG: clinopodium <= hypotarsal
+DEBUG: cropper <= hypotarsal
+DEBUG: dacryon <= hypotarsal
+DEBUG: demicoronal <= hypotarsal
+DEBUG: dewclawed <= hypotarsal
+DEBUG: doucely <= hypotarsal
+DEBUG: droitural <= hypotarsal
+DEBUG: dynamogenic <= hypotarsal
+DEBUG: each <= hypotarsal
+DEBUG: em <= hypotarsal
+DEBUG: goburra <= hypotarsal
+DEBUG: guildic <= hypotarsal
+DEBUG: gulp <= hypotarsal
+DEBUG: humorist <= hypotarsal
+DEBUG: hypodermal <= hypotarsal
+DEBUG: infraterritorial > hypotarsal so return 0x6224c0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert inattentive 76 in sorted order
+DEBUG: analkalinity <= inattentive
+DEBUG: anhalouidine <= inattentive
+DEBUG: antimasonry <= inattentive
+DEBUG: apocynum <= inattentive
+DEBUG: applotment <= inattentive
+DEBUG: autem <= inattentive
+DEBUG: autoinfection <= inattentive
+DEBUG: blindfolded <= inattentive
+DEBUG: catechismal <= inattentive
+DEBUG: clarin <= inattentive
+DEBUG: clinopodium <= inattentive
+DEBUG: cropper <= inattentive
+DEBUG: dacryon <= inattentive
+DEBUG: demicoronal <= inattentive
+DEBUG: dewclawed <= inattentive
+DEBUG: doucely <= inattentive
+DEBUG: droitural <= inattentive
+DEBUG: dynamogenic <= inattentive
+DEBUG: each <= inattentive
+DEBUG: em <= inattentive
+DEBUG: goburra <= inattentive
+DEBUG: guildic <= inattentive
+DEBUG: gulp <= inattentive
+DEBUG: humorist <= inattentive
+DEBUG: hypodermal <= inattentive
+DEBUG: hypotarsal <= inattentive
+DEBUG: infraterritorial > inattentive so return 0x6229c0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert filefish 77 in sorted order
+DEBUG: analkalinity <= filefish
+DEBUG: anhalouidine <= filefish
+DEBUG: antimasonry <= filefish
+DEBUG: apocynum <= filefish
+DEBUG: applotment <= filefish
+DEBUG: autem <= filefish
+DEBUG: autoinfection <= filefish
+DEBUG: blindfolded <= filefish
+DEBUG: catechismal <= filefish
+DEBUG: clarin <= filefish
+DEBUG: clinopodium <= filefish
+DEBUG: cropper <= filefish
+DEBUG: dacryon <= filefish
+DEBUG: demicoronal <= filefish
+DEBUG: dewclawed <= filefish
+DEBUG: doucely <= filefish
+DEBUG: droitural <= filefish
+DEBUG: dynamogenic <= filefish
+DEBUG: each <= filefish
+DEBUG: em <= filefish
+DEBUG: goburra > filefish so return 0x621f20
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert encraty 78 in sorted order
+DEBUG: analkalinity <= encraty
+DEBUG: anhalouidine <= encraty
+DEBUG: antimasonry <= encraty
+DEBUG: apocynum <= encraty
+DEBUG: applotment <= encraty
+DEBUG: autem <= encraty
+DEBUG: autoinfection <= encraty
+DEBUG: blindfolded <= encraty
+DEBUG: catechismal <= encraty
+DEBUG: clarin <= encraty
+DEBUG: clinopodium <= encraty
+DEBUG: cropper <= encraty
+DEBUG: dacryon <= encraty
+DEBUG: demicoronal <= encraty
+DEBUG: dewclawed <= encraty
+DEBUG: doucely <= encraty
+DEBUG: droitural <= encraty
+DEBUG: dynamogenic <= encraty
+DEBUG: each <= encraty
+DEBUG: em <= encraty
+DEBUG: filefish > encraty so return 0x621f20
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+viverrine 24
+waistcoatless 28
+Insert visitational 79 in sorted order
+DEBUG: analkalinity <= visitational
+DEBUG: anhalouidine <= visitational
+DEBUG: antimasonry <= visitational
+DEBUG: apocynum <= visitational
+DEBUG: applotment <= visitational
+DEBUG: autem <= visitational
+DEBUG: autoinfection <= visitational
+DEBUG: blindfolded <= visitational
+DEBUG: catechismal <= visitational
+DEBUG: clarin <= visitational
+DEBUG: clinopodium <= visitational
+DEBUG: cropper <= visitational
+DEBUG: dacryon <= visitational
+DEBUG: demicoronal <= visitational
+DEBUG: dewclawed <= visitational
+DEBUG: doucely <= visitational
+DEBUG: droitural <= visitational
+DEBUG: dynamogenic <= visitational
+DEBUG: each <= visitational
+DEBUG: em <= visitational
+DEBUG: encraty <= visitational
+DEBUG: filefish <= visitational
+DEBUG: goburra <= visitational
+DEBUG: guildic <= visitational
+DEBUG: gulp <= visitational
+DEBUG: humorist <= visitational
+DEBUG: hypodermal <= visitational
+DEBUG: hypotarsal <= visitational
+DEBUG: inattentive <= visitational
+DEBUG: infraterritorial <= visitational
+DEBUG: iodate <= visitational
+DEBUG: isatic <= visitational
+DEBUG: leucocytoplania <= visitational
+DEBUG: mastigophora <= visitational
+DEBUG: metrophotography <= visitational
+DEBUG: moneybag <= visitational
+DEBUG: monochromatism <= visitational
+DEBUG: mouillation <= visitational
+DEBUG: mycosterol <= visitational
+DEBUG: nonaristocratic <= visitational
+DEBUG: nonperiodical <= visitational
+DEBUG: nontestamentary <= visitational
+DEBUG: omnimeter <= visitational
+DEBUG: ophism <= visitational
+DEBUG: overquickly <= visitational
+DEBUG: pneumohydrothorax <= visitational
+DEBUG: pneumonolith <= visitational
+DEBUG: precontroversy <= visitational
+DEBUG: propeller <= visitational
+DEBUG: prosogyrate <= visitational
+DEBUG: pyrocatechuic <= visitational
+DEBUG: rebeck <= visitational
+DEBUG: recuperation <= visitational
+DEBUG: sadism <= visitational
+DEBUG: salva <= visitational
+DEBUG: scissorwise <= visitational
+DEBUG: securifera <= visitational
+DEBUG: semisucculent <= visitational
+DEBUG: setoff <= visitational
+DEBUG: specificative <= visitational
+DEBUG: subbourdon <= visitational
+DEBUG: subplantigrade <= visitational
+DEBUG: surplusage <= visitational
+DEBUG: suspensation <= visitational
+DEBUG: taloned <= visitational
+DEBUG: tepal <= visitational
+DEBUG: thysanurous <= visitational
+DEBUG: uglification <= visitational
+DEBUG: ulotrichaceous <= visitational
+DEBUG: undevious <= visitational
+DEBUG: unexemplifiable <= visitational
+DEBUG: unforsaken <= visitational
+DEBUG: unread <= visitational
+DEBUG: unreproving <= visitational
+DEBUG: unskaithd <= visitational
+DEBUG: untyrannical <= visitational
+DEBUG: vagueness <= visitational
+DEBUG: viverrine > visitational so return 0x6223d0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert unregard 80 in sorted order
+DEBUG: analkalinity <= unregard
+DEBUG: anhalouidine <= unregard
+DEBUG: antimasonry <= unregard
+DEBUG: apocynum <= unregard
+DEBUG: applotment <= unregard
+DEBUG: autem <= unregard
+DEBUG: autoinfection <= unregard
+DEBUG: blindfolded <= unregard
+DEBUG: catechismal <= unregard
+DEBUG: clarin <= unregard
+DEBUG: clinopodium <= unregard
+DEBUG: cropper <= unregard
+DEBUG: dacryon <= unregard
+DEBUG: demicoronal <= unregard
+DEBUG: dewclawed <= unregard
+DEBUG: doucely <= unregard
+DEBUG: droitural <= unregard
+DEBUG: dynamogenic <= unregard
+DEBUG: each <= unregard
+DEBUG: em <= unregard
+DEBUG: encraty <= unregard
+DEBUG: filefish <= unregard
+DEBUG: goburra <= unregard
+DEBUG: guildic <= unregard
+DEBUG: gulp <= unregard
+DEBUG: humorist <= unregard
+DEBUG: hypodermal <= unregard
+DEBUG: hypotarsal <= unregard
+DEBUG: inattentive <= unregard
+DEBUG: infraterritorial <= unregard
+DEBUG: iodate <= unregard
+DEBUG: isatic <= unregard
+DEBUG: leucocytoplania <= unregard
+DEBUG: mastigophora <= unregard
+DEBUG: metrophotography <= unregard
+DEBUG: moneybag <= unregard
+DEBUG: monochromatism <= unregard
+DEBUG: mouillation <= unregard
+DEBUG: mycosterol <= unregard
+DEBUG: nonaristocratic <= unregard
+DEBUG: nonperiodical <= unregard
+DEBUG: nontestamentary <= unregard
+DEBUG: omnimeter <= unregard
+DEBUG: ophism <= unregard
+DEBUG: overquickly <= unregard
+DEBUG: pneumohydrothorax <= unregard
+DEBUG: pneumonolith <= unregard
+DEBUG: precontroversy <= unregard
+DEBUG: propeller <= unregard
+DEBUG: prosogyrate <= unregard
+DEBUG: pyrocatechuic <= unregard
+DEBUG: rebeck <= unregard
+DEBUG: recuperation <= unregard
+DEBUG: sadism <= unregard
+DEBUG: salva <= unregard
+DEBUG: scissorwise <= unregard
+DEBUG: securifera <= unregard
+DEBUG: semisucculent <= unregard
+DEBUG: setoff <= unregard
+DEBUG: specificative <= unregard
+DEBUG: subbourdon <= unregard
+DEBUG: subplantigrade <= unregard
+DEBUG: surplusage <= unregard
+DEBUG: suspensation <= unregard
+DEBUG: taloned <= unregard
+DEBUG: tepal <= unregard
+DEBUG: thysanurous <= unregard
+DEBUG: uglification <= unregard
+DEBUG: ulotrichaceous <= unregard
+DEBUG: undevious <= unregard
+DEBUG: unexemplifiable <= unregard
+DEBUG: unforsaken <= unregard
+DEBUG: unread <= unregard
+DEBUG: unreproving > unregard so return 0x621340
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert unpreservable 81 in sorted order
+DEBUG: analkalinity <= unpreservable
+DEBUG: anhalouidine <= unpreservable
+DEBUG: antimasonry <= unpreservable
+DEBUG: apocynum <= unpreservable
+DEBUG: applotment <= unpreservable
+DEBUG: autem <= unpreservable
+DEBUG: autoinfection <= unpreservable
+DEBUG: blindfolded <= unpreservable
+DEBUG: catechismal <= unpreservable
+DEBUG: clarin <= unpreservable
+DEBUG: clinopodium <= unpreservable
+DEBUG: cropper <= unpreservable
+DEBUG: dacryon <= unpreservable
+DEBUG: demicoronal <= unpreservable
+DEBUG: dewclawed <= unpreservable
+DEBUG: doucely <= unpreservable
+DEBUG: droitural <= unpreservable
+DEBUG: dynamogenic <= unpreservable
+DEBUG: each <= unpreservable
+DEBUG: em <= unpreservable
+DEBUG: encraty <= unpreservable
+DEBUG: filefish <= unpreservable
+DEBUG: goburra <= unpreservable
+DEBUG: guildic <= unpreservable
+DEBUG: gulp <= unpreservable
+DEBUG: humorist <= unpreservable
+DEBUG: hypodermal <= unpreservable
+DEBUG: hypotarsal <= unpreservable
+DEBUG: inattentive <= unpreservable
+DEBUG: infraterritorial <= unpreservable
+DEBUG: iodate <= unpreservable
+DEBUG: isatic <= unpreservable
+DEBUG: leucocytoplania <= unpreservable
+DEBUG: mastigophora <= unpreservable
+DEBUG: metrophotography <= unpreservable
+DEBUG: moneybag <= unpreservable
+DEBUG: monochromatism <= unpreservable
+DEBUG: mouillation <= unpreservable
+DEBUG: mycosterol <= unpreservable
+DEBUG: nonaristocratic <= unpreservable
+DEBUG: nonperiodical <= unpreservable
+DEBUG: nontestamentary <= unpreservable
+DEBUG: omnimeter <= unpreservable
+DEBUG: ophism <= unpreservable
+DEBUG: overquickly <= unpreservable
+DEBUG: pneumohydrothorax <= unpreservable
+DEBUG: pneumonolith <= unpreservable
+DEBUG: precontroversy <= unpreservable
+DEBUG: propeller <= unpreservable
+DEBUG: prosogyrate <= unpreservable
+DEBUG: pyrocatechuic <= unpreservable
+DEBUG: rebeck <= unpreservable
+DEBUG: recuperation <= unpreservable
+DEBUG: sadism <= unpreservable
+DEBUG: salva <= unpreservable
+DEBUG: scissorwise <= unpreservable
+DEBUG: securifera <= unpreservable
+DEBUG: semisucculent <= unpreservable
+DEBUG: setoff <= unpreservable
+DEBUG: specificative <= unpreservable
+DEBUG: subbourdon <= unpreservable
+DEBUG: subplantigrade <= unpreservable
+DEBUG: surplusage <= unpreservable
+DEBUG: suspensation <= unpreservable
+DEBUG: taloned <= unpreservable
+DEBUG: tepal <= unpreservable
+DEBUG: thysanurous <= unpreservable
+DEBUG: uglification <= unpreservable
+DEBUG: ulotrichaceous <= unpreservable
+DEBUG: undevious <= unpreservable
+DEBUG: unexemplifiable <= unpreservable
+DEBUG: unforsaken <= unpreservable
+DEBUG: unread > unpreservable so return 0x6217a0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert ungettable 82 in sorted order
+DEBUG: analkalinity <= ungettable
+DEBUG: anhalouidine <= ungettable
+DEBUG: antimasonry <= ungettable
+DEBUG: apocynum <= ungettable
+DEBUG: applotment <= ungettable
+DEBUG: autem <= ungettable
+DEBUG: autoinfection <= ungettable
+DEBUG: blindfolded <= ungettable
+DEBUG: catechismal <= ungettable
+DEBUG: clarin <= ungettable
+DEBUG: clinopodium <= ungettable
+DEBUG: cropper <= ungettable
+DEBUG: dacryon <= ungettable
+DEBUG: demicoronal <= ungettable
+DEBUG: dewclawed <= ungettable
+DEBUG: doucely <= ungettable
+DEBUG: droitural <= ungettable
+DEBUG: dynamogenic <= ungettable
+DEBUG: each <= ungettable
+DEBUG: em <= ungettable
+DEBUG: encraty <= ungettable
+DEBUG: filefish <= ungettable
+DEBUG: goburra <= ungettable
+DEBUG: guildic <= ungettable
+DEBUG: gulp <= ungettable
+DEBUG: humorist <= ungettable
+DEBUG: hypodermal <= ungettable
+DEBUG: hypotarsal <= ungettable
+DEBUG: inattentive <= ungettable
+DEBUG: infraterritorial <= ungettable
+DEBUG: iodate <= ungettable
+DEBUG: isatic <= ungettable
+DEBUG: leucocytoplania <= ungettable
+DEBUG: mastigophora <= ungettable
+DEBUG: metrophotography <= ungettable
+DEBUG: moneybag <= ungettable
+DEBUG: monochromatism <= ungettable
+DEBUG: mouillation <= ungettable
+DEBUG: mycosterol <= ungettable
+DEBUG: nonaristocratic <= ungettable
+DEBUG: nonperiodical <= ungettable
+DEBUG: nontestamentary <= ungettable
+DEBUG: omnimeter <= ungettable
+DEBUG: ophism <= ungettable
+DEBUG: overquickly <= ungettable
+DEBUG: pneumohydrothorax <= ungettable
+DEBUG: pneumonolith <= ungettable
+DEBUG: precontroversy <= ungettable
+DEBUG: propeller <= ungettable
+DEBUG: prosogyrate <= ungettable
+DEBUG: pyrocatechuic <= ungettable
+DEBUG: rebeck <= ungettable
+DEBUG: recuperation <= ungettable
+DEBUG: sadism <= ungettable
+DEBUG: salva <= ungettable
+DEBUG: scissorwise <= ungettable
+DEBUG: securifera <= ungettable
+DEBUG: semisucculent <= ungettable
+DEBUG: setoff <= ungettable
+DEBUG: specificative <= ungettable
+DEBUG: subbourdon <= ungettable
+DEBUG: subplantigrade <= ungettable
+DEBUG: surplusage <= ungettable
+DEBUG: suspensation <= ungettable
+DEBUG: taloned <= ungettable
+DEBUG: tepal <= ungettable
+DEBUG: thysanurous <= ungettable
+DEBUG: uglification <= ungettable
+DEBUG: ulotrichaceous <= ungettable
+DEBUG: undevious <= ungettable
+DEBUG: unexemplifiable <= ungettable
+DEBUG: unforsaken <= ungettable
+DEBUG: unpreservable > ungettable so return 0x6217a0
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert besomer 83 in sorted order
+DEBUG: analkalinity <= besomer
+DEBUG: anhalouidine <= besomer
+DEBUG: antimasonry <= besomer
+DEBUG: apocynum <= besomer
+DEBUG: applotment <= besomer
+DEBUG: autem <= besomer
+DEBUG: autoinfection <= besomer
+DEBUG: blindfolded > besomer so return 0x622510
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert alchimy 84 in sorted order
+DEBUG: analkalinity > alchimy so return (nil)
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert akcheh 85 in sorted order
+DEBUG: alchimy > akcheh so return (nil)
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert forereading 86 in sorted order
+DEBUG: akcheh <= forereading
+DEBUG: alchimy <= forereading
+DEBUG: analkalinity <= forereading
+DEBUG: anhalouidine <= forereading
+DEBUG: antimasonry <= forereading
+DEBUG: apocynum <= forereading
+DEBUG: applotment <= forereading
+DEBUG: autem <= forereading
+DEBUG: autoinfection <= forereading
+DEBUG: besomer <= forereading
+DEBUG: blindfolded <= forereading
+DEBUG: catechismal <= forereading
+DEBUG: clarin <= forereading
+DEBUG: clinopodium <= forereading
+DEBUG: cropper <= forereading
+DEBUG: dacryon <= forereading
+DEBUG: demicoronal <= forereading
+DEBUG: dewclawed <= forereading
+DEBUG: doucely <= forereading
+DEBUG: droitural <= forereading
+DEBUG: dynamogenic <= forereading
+DEBUG: each <= forereading
+DEBUG: em <= forereading
+DEBUG: encraty <= forereading
+DEBUG: filefish <= forereading
+DEBUG: goburra > forereading so return 0x622a60
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert idioelectrical 87 in sorted order
+DEBUG: akcheh <= idioelectrical
+DEBUG: alchimy <= idioelectrical
+DEBUG: analkalinity <= idioelectrical
+DEBUG: anhalouidine <= idioelectrical
+DEBUG: antimasonry <= idioelectrical
+DEBUG: apocynum <= idioelectrical
+DEBUG: applotment <= idioelectrical
+DEBUG: autem <= idioelectrical
+DEBUG: autoinfection <= idioelectrical
+DEBUG: besomer <= idioelectrical
+DEBUG: blindfolded <= idioelectrical
+DEBUG: catechismal <= idioelectrical
+DEBUG: clarin <= idioelectrical
+DEBUG: clinopodium <= idioelectrical
+DEBUG: cropper <= idioelectrical
+DEBUG: dacryon <= idioelectrical
+DEBUG: demicoronal <= idioelectrical
+DEBUG: dewclawed <= idioelectrical
+DEBUG: doucely <= idioelectrical
+DEBUG: droitural <= idioelectrical
+DEBUG: dynamogenic <= idioelectrical
+DEBUG: each <= idioelectrical
+DEBUG: em <= idioelectrical
+DEBUG: encraty <= idioelectrical
+DEBUG: filefish <= idioelectrical
+DEBUG: forereading <= idioelectrical
+DEBUG: goburra <= idioelectrical
+DEBUG: guildic <= idioelectrical
+DEBUG: gulp <= idioelectrical
+DEBUG: humorist <= idioelectrical
+DEBUG: hypodermal <= idioelectrical
+DEBUG: hypotarsal <= idioelectrical
+DEBUG: inattentive > idioelectrical so return 0x6229c0
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert gingernut 88 in sorted order
+DEBUG: akcheh <= gingernut
+DEBUG: alchimy <= gingernut
+DEBUG: analkalinity <= gingernut
+DEBUG: anhalouidine <= gingernut
+DEBUG: antimasonry <= gingernut
+DEBUG: apocynum <= gingernut
+DEBUG: applotment <= gingernut
+DEBUG: autem <= gingernut
+DEBUG: autoinfection <= gingernut
+DEBUG: besomer <= gingernut
+DEBUG: blindfolded <= gingernut
+DEBUG: catechismal <= gingernut
+DEBUG: clarin <= gingernut
+DEBUG: clinopodium <= gingernut
+DEBUG: cropper <= gingernut
+DEBUG: dacryon <= gingernut
+DEBUG: demicoronal <= gingernut
+DEBUG: dewclawed <= gingernut
+DEBUG: doucely <= gingernut
+DEBUG: droitural <= gingernut
+DEBUG: dynamogenic <= gingernut
+DEBUG: each <= gingernut
+DEBUG: em <= gingernut
+DEBUG: encraty <= gingernut
+DEBUG: filefish <= gingernut
+DEBUG: forereading <= gingernut
+DEBUG: goburra > gingernut so return 0x622d30
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert ultraradical 89 in sorted order
+DEBUG: akcheh <= ultraradical
+DEBUG: alchimy <= ultraradical
+DEBUG: analkalinity <= ultraradical
+DEBUG: anhalouidine <= ultraradical
+DEBUG: antimasonry <= ultraradical
+DEBUG: apocynum <= ultraradical
+DEBUG: applotment <= ultraradical
+DEBUG: autem <= ultraradical
+DEBUG: autoinfection <= ultraradical
+DEBUG: besomer <= ultraradical
+DEBUG: blindfolded <= ultraradical
+DEBUG: catechismal <= ultraradical
+DEBUG: clarin <= ultraradical
+DEBUG: clinopodium <= ultraradical
+DEBUG: cropper <= ultraradical
+DEBUG: dacryon <= ultraradical
+DEBUG: demicoronal <= ultraradical
+DEBUG: dewclawed <= ultraradical
+DEBUG: doucely <= ultraradical
+DEBUG: droitural <= ultraradical
+DEBUG: dynamogenic <= ultraradical
+DEBUG: each <= ultraradical
+DEBUG: em <= ultraradical
+DEBUG: encraty <= ultraradical
+DEBUG: filefish <= ultraradical
+DEBUG: forereading <= ultraradical
+DEBUG: gingernut <= ultraradical
+DEBUG: goburra <= ultraradical
+DEBUG: guildic <= ultraradical
+DEBUG: gulp <= ultraradical
+DEBUG: humorist <= ultraradical
+DEBUG: hypodermal <= ultraradical
+DEBUG: hypotarsal <= ultraradical
+DEBUG: idioelectrical <= ultraradical
+DEBUG: inattentive <= ultraradical
+DEBUG: infraterritorial <= ultraradical
+DEBUG: iodate <= ultraradical
+DEBUG: isatic <= ultraradical
+DEBUG: leucocytoplania <= ultraradical
+DEBUG: mastigophora <= ultraradical
+DEBUG: metrophotography <= ultraradical
+DEBUG: moneybag <= ultraradical
+DEBUG: monochromatism <= ultraradical
+DEBUG: mouillation <= ultraradical
+DEBUG: mycosterol <= ultraradical
+DEBUG: nonaristocratic <= ultraradical
+DEBUG: nonperiodical <= ultraradical
+DEBUG: nontestamentary <= ultraradical
+DEBUG: omnimeter <= ultraradical
+DEBUG: ophism <= ultraradical
+DEBUG: overquickly <= ultraradical
+DEBUG: pneumohydrothorax <= ultraradical
+DEBUG: pneumonolith <= ultraradical
+DEBUG: precontroversy <= ultraradical
+DEBUG: propeller <= ultraradical
+DEBUG: prosogyrate <= ultraradical
+DEBUG: pyrocatechuic <= ultraradical
+DEBUG: rebeck <= ultraradical
+DEBUG: recuperation <= ultraradical
+DEBUG: sadism <= ultraradical
+DEBUG: salva <= ultraradical
+DEBUG: scissorwise <= ultraradical
+DEBUG: securifera <= ultraradical
+DEBUG: semisucculent <= ultraradical
+DEBUG: setoff <= ultraradical
+DEBUG: specificative <= ultraradical
+DEBUG: subbourdon <= ultraradical
+DEBUG: subplantigrade <= ultraradical
+DEBUG: surplusage <= ultraradical
+DEBUG: suspensation <= ultraradical
+DEBUG: taloned <= ultraradical
+DEBUG: tepal <= ultraradical
+DEBUG: thysanurous <= ultraradical
+DEBUG: uglification <= ultraradical
+DEBUG: ulotrichaceous <= ultraradical
+DEBUG: undevious > ultraradical so return 0x6217f0
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+Insert woodendite 90 in sorted order
+DEBUG: akcheh <= woodendite
+DEBUG: alchimy <= woodendite
+DEBUG: analkalinity <= woodendite
+DEBUG: anhalouidine <= woodendite
+DEBUG: antimasonry <= woodendite
+DEBUG: apocynum <= woodendite
+DEBUG: applotment <= woodendite
+DEBUG: autem <= woodendite
+DEBUG: autoinfection <= woodendite
+DEBUG: besomer <= woodendite
+DEBUG: blindfolded <= woodendite
+DEBUG: catechismal <= woodendite
+DEBUG: clarin <= woodendite
+DEBUG: clinopodium <= woodendite
+DEBUG: cropper <= woodendite
+DEBUG: dacryon <= woodendite
+DEBUG: demicoronal <= woodendite
+DEBUG: dewclawed <= woodendite
+DEBUG: doucely <= woodendite
+DEBUG: droitural <= woodendite
+DEBUG: dynamogenic <= woodendite
+DEBUG: each <= woodendite
+DEBUG: em <= woodendite
+DEBUG: encraty <= woodendite
+DEBUG: filefish <= woodendite
+DEBUG: forereading <= woodendite
+DEBUG: gingernut <= woodendite
+DEBUG: goburra <= woodendite
+DEBUG: guildic <= woodendite
+DEBUG: gulp <= woodendite
+DEBUG: humorist <= woodendite
+DEBUG: hypodermal <= woodendite
+DEBUG: hypotarsal <= woodendite
+DEBUG: idioelectrical <= woodendite
+DEBUG: inattentive <= woodendite
+DEBUG: infraterritorial <= woodendite
+DEBUG: iodate <= woodendite
+DEBUG: isatic <= woodendite
+DEBUG: leucocytoplania <= woodendite
+DEBUG: mastigophora <= woodendite
+DEBUG: metrophotography <= woodendite
+DEBUG: moneybag <= woodendite
+DEBUG: monochromatism <= woodendite
+DEBUG: mouillation <= woodendite
+DEBUG: mycosterol <= woodendite
+DEBUG: nonaristocratic <= woodendite
+DEBUG: nonperiodical <= woodendite
+DEBUG: nontestamentary <= woodendite
+DEBUG: omnimeter <= woodendite
+DEBUG: ophism <= woodendite
+DEBUG: overquickly <= woodendite
+DEBUG: pneumohydrothorax <= woodendite
+DEBUG: pneumonolith <= woodendite
+DEBUG: precontroversy <= woodendite
+DEBUG: propeller <= woodendite
+DEBUG: prosogyrate <= woodendite
+DEBUG: pyrocatechuic <= woodendite
+DEBUG: rebeck <= woodendite
+DEBUG: recuperation <= woodendite
+DEBUG: sadism <= woodendite
+DEBUG: salva <= woodendite
+DEBUG: scissorwise <= woodendite
+DEBUG: securifera <= woodendite
+DEBUG: semisucculent <= woodendite
+DEBUG: setoff <= woodendite
+DEBUG: specificative <= woodendite
+DEBUG: subbourdon <= woodendite
+DEBUG: subplantigrade <= woodendite
+DEBUG: surplusage <= woodendite
+DEBUG: suspensation <= woodendite
+DEBUG: taloned <= woodendite
+DEBUG: tepal <= woodendite
+DEBUG: thysanurous <= woodendite
+DEBUG: uglification <= woodendite
+DEBUG: ulotrichaceous <= woodendite
+DEBUG: ultraradical <= woodendite
+DEBUG: undevious <= woodendite
+DEBUG: unexemplifiable <= woodendite
+DEBUG: unforsaken <= woodendite
+DEBUG: ungettable <= woodendite
+DEBUG: unpreservable <= woodendite
+DEBUG: unread <= woodendite
+DEBUG: unregard <= woodendite
+DEBUG: unreproving <= woodendite
+DEBUG: unskaithd <= woodendite
+DEBUG: untyrannical <= woodendite
+DEBUG: vagueness <= woodendite
+DEBUG: visitational <= woodendite
+DEBUG: viverrine <= woodendite
+DEBUG: waistcoatless <= woodendite
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert acrotarsium 91 in sorted order
+DEBUG: akcheh > acrotarsium so return (nil)
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert fermentology 92 in sorted order
+DEBUG: acrotarsium <= fermentology
+DEBUG: akcheh <= fermentology
+DEBUG: alchimy <= fermentology
+DEBUG: analkalinity <= fermentology
+DEBUG: anhalouidine <= fermentology
+DEBUG: antimasonry <= fermentology
+DEBUG: apocynum <= fermentology
+DEBUG: applotment <= fermentology
+DEBUG: autem <= fermentology
+DEBUG: autoinfection <= fermentology
+DEBUG: besomer <= fermentology
+DEBUG: blindfolded <= fermentology
+DEBUG: catechismal <= fermentology
+DEBUG: clarin <= fermentology
+DEBUG: clinopodium <= fermentology
+DEBUG: cropper <= fermentology
+DEBUG: dacryon <= fermentology
+DEBUG: demicoronal <= fermentology
+DEBUG: dewclawed <= fermentology
+DEBUG: doucely <= fermentology
+DEBUG: droitural <= fermentology
+DEBUG: dynamogenic <= fermentology
+DEBUG: each <= fermentology
+DEBUG: em <= fermentology
+DEBUG: encraty <= fermentology
+DEBUG: filefish > fermentology so return 0x622ab0
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert may 93 in sorted order
+DEBUG: acrotarsium <= may
+DEBUG: akcheh <= may
+DEBUG: alchimy <= may
+DEBUG: analkalinity <= may
+DEBUG: anhalouidine <= may
+DEBUG: antimasonry <= may
+DEBUG: apocynum <= may
+DEBUG: applotment <= may
+DEBUG: autem <= may
+DEBUG: autoinfection <= may
+DEBUG: besomer <= may
+DEBUG: blindfolded <= may
+DEBUG: catechismal <= may
+DEBUG: clarin <= may
+DEBUG: clinopodium <= may
+DEBUG: cropper <= may
+DEBUG: dacryon <= may
+DEBUG: demicoronal <= may
+DEBUG: dewclawed <= may
+DEBUG: doucely <= may
+DEBUG: droitural <= may
+DEBUG: dynamogenic <= may
+DEBUG: each <= may
+DEBUG: em <= may
+DEBUG: encraty <= may
+DEBUG: fermentology <= may
+DEBUG: filefish <= may
+DEBUG: forereading <= may
+DEBUG: gingernut <= may
+DEBUG: goburra <= may
+DEBUG: guildic <= may
+DEBUG: gulp <= may
+DEBUG: humorist <= may
+DEBUG: hypodermal <= may
+DEBUG: hypotarsal <= may
+DEBUG: idioelectrical <= may
+DEBUG: inattentive <= may
+DEBUG: infraterritorial <= may
+DEBUG: iodate <= may
+DEBUG: isatic <= may
+DEBUG: leucocytoplania <= may
+DEBUG: mastigophora <= may
+DEBUG: metrophotography > may so return 0x621e30
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert heteroploid 94 in sorted order
+DEBUG: acrotarsium <= heteroploid
+DEBUG: akcheh <= heteroploid
+DEBUG: alchimy <= heteroploid
+DEBUG: analkalinity <= heteroploid
+DEBUG: anhalouidine <= heteroploid
+DEBUG: antimasonry <= heteroploid
+DEBUG: apocynum <= heteroploid
+DEBUG: applotment <= heteroploid
+DEBUG: autem <= heteroploid
+DEBUG: autoinfection <= heteroploid
+DEBUG: besomer <= heteroploid
+DEBUG: blindfolded <= heteroploid
+DEBUG: catechismal <= heteroploid
+DEBUG: clarin <= heteroploid
+DEBUG: clinopodium <= heteroploid
+DEBUG: cropper <= heteroploid
+DEBUG: dacryon <= heteroploid
+DEBUG: demicoronal <= heteroploid
+DEBUG: dewclawed <= heteroploid
+DEBUG: doucely <= heteroploid
+DEBUG: droitural <= heteroploid
+DEBUG: dynamogenic <= heteroploid
+DEBUG: each <= heteroploid
+DEBUG: em <= heteroploid
+DEBUG: encraty <= heteroploid
+DEBUG: fermentology <= heteroploid
+DEBUG: filefish <= heteroploid
+DEBUG: forereading <= heteroploid
+DEBUG: gingernut <= heteroploid
+DEBUG: goburra <= heteroploid
+DEBUG: guildic <= heteroploid
+DEBUG: gulp <= heteroploid
+DEBUG: humorist > heteroploid so return 0x6226f0
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert centricality 95 in sorted order
+DEBUG: acrotarsium <= centricality
+DEBUG: akcheh <= centricality
+DEBUG: alchimy <= centricality
+DEBUG: analkalinity <= centricality
+DEBUG: anhalouidine <= centricality
+DEBUG: antimasonry <= centricality
+DEBUG: apocynum <= centricality
+DEBUG: applotment <= centricality
+DEBUG: autem <= centricality
+DEBUG: autoinfection <= centricality
+DEBUG: besomer <= centricality
+DEBUG: blindfolded <= centricality
+DEBUG: catechismal <= centricality
+DEBUG: clarin > centricality so return 0x621e80
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+centricality 95
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert outscore 96 in sorted order
+DEBUG: acrotarsium <= outscore
+DEBUG: akcheh <= outscore
+DEBUG: alchimy <= outscore
+DEBUG: analkalinity <= outscore
+DEBUG: anhalouidine <= outscore
+DEBUG: antimasonry <= outscore
+DEBUG: apocynum <= outscore
+DEBUG: applotment <= outscore
+DEBUG: autem <= outscore
+DEBUG: autoinfection <= outscore
+DEBUG: besomer <= outscore
+DEBUG: blindfolded <= outscore
+DEBUG: catechismal <= outscore
+DEBUG: centricality <= outscore
+DEBUG: clarin <= outscore
+DEBUG: clinopodium <= outscore
+DEBUG: cropper <= outscore
+DEBUG: dacryon <= outscore
+DEBUG: demicoronal <= outscore
+DEBUG: dewclawed <= outscore
+DEBUG: doucely <= outscore
+DEBUG: droitural <= outscore
+DEBUG: dynamogenic <= outscore
+DEBUG: each <= outscore
+DEBUG: em <= outscore
+DEBUG: encraty <= outscore
+DEBUG: fermentology <= outscore
+DEBUG: filefish <= outscore
+DEBUG: forereading <= outscore
+DEBUG: gingernut <= outscore
+DEBUG: goburra <= outscore
+DEBUG: guildic <= outscore
+DEBUG: gulp <= outscore
+DEBUG: heteroploid <= outscore
+DEBUG: humorist <= outscore
+DEBUG: hypodermal <= outscore
+DEBUG: hypotarsal <= outscore
+DEBUG: idioelectrical <= outscore
+DEBUG: inattentive <= outscore
+DEBUG: infraterritorial <= outscore
+DEBUG: iodate <= outscore
+DEBUG: isatic <= outscore
+DEBUG: leucocytoplania <= outscore
+DEBUG: mastigophora <= outscore
+DEBUG: may <= outscore
+DEBUG: metrophotography <= outscore
+DEBUG: moneybag <= outscore
+DEBUG: monochromatism <= outscore
+DEBUG: mouillation <= outscore
+DEBUG: mycosterol <= outscore
+DEBUG: nonaristocratic <= outscore
+DEBUG: nonperiodical <= outscore
+DEBUG: nontestamentary <= outscore
+DEBUG: omnimeter <= outscore
+DEBUG: ophism <= outscore
+DEBUG: overquickly > outscore so return 0x6227e0
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+centricality 95
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+outscore 96
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert radiolite 97 in sorted order
+DEBUG: acrotarsium <= radiolite
+DEBUG: akcheh <= radiolite
+DEBUG: alchimy <= radiolite
+DEBUG: analkalinity <= radiolite
+DEBUG: anhalouidine <= radiolite
+DEBUG: antimasonry <= radiolite
+DEBUG: apocynum <= radiolite
+DEBUG: applotment <= radiolite
+DEBUG: autem <= radiolite
+DEBUG: autoinfection <= radiolite
+DEBUG: besomer <= radiolite
+DEBUG: blindfolded <= radiolite
+DEBUG: catechismal <= radiolite
+DEBUG: centricality <= radiolite
+DEBUG: clarin <= radiolite
+DEBUG: clinopodium <= radiolite
+DEBUG: cropper <= radiolite
+DEBUG: dacryon <= radiolite
+DEBUG: demicoronal <= radiolite
+DEBUG: dewclawed <= radiolite
+DEBUG: doucely <= radiolite
+DEBUG: droitural <= radiolite
+DEBUG: dynamogenic <= radiolite
+DEBUG: each <= radiolite
+DEBUG: em <= radiolite
+DEBUG: encraty <= radiolite
+DEBUG: fermentology <= radiolite
+DEBUG: filefish <= radiolite
+DEBUG: forereading <= radiolite
+DEBUG: gingernut <= radiolite
+DEBUG: goburra <= radiolite
+DEBUG: guildic <= radiolite
+DEBUG: gulp <= radiolite
+DEBUG: heteroploid <= radiolite
+DEBUG: humorist <= radiolite
+DEBUG: hypodermal <= radiolite
+DEBUG: hypotarsal <= radiolite
+DEBUG: idioelectrical <= radiolite
+DEBUG: inattentive <= radiolite
+DEBUG: infraterritorial <= radiolite
+DEBUG: iodate <= radiolite
+DEBUG: isatic <= radiolite
+DEBUG: leucocytoplania <= radiolite
+DEBUG: mastigophora <= radiolite
+DEBUG: may <= radiolite
+DEBUG: metrophotography <= radiolite
+DEBUG: moneybag <= radiolite
+DEBUG: monochromatism <= radiolite
+DEBUG: mouillation <= radiolite
+DEBUG: mycosterol <= radiolite
+DEBUG: nonaristocratic <= radiolite
+DEBUG: nonperiodical <= radiolite
+DEBUG: nontestamentary <= radiolite
+DEBUG: omnimeter <= radiolite
+DEBUG: ophism <= radiolite
+DEBUG: outscore <= radiolite
+DEBUG: overquickly <= radiolite
+DEBUG: pneumohydrothorax <= radiolite
+DEBUG: pneumonolith <= radiolite
+DEBUG: precontroversy <= radiolite
+DEBUG: propeller <= radiolite
+DEBUG: prosogyrate <= radiolite
+DEBUG: pyrocatechuic <= radiolite
+DEBUG: rebeck > radiolite so return 0x622290
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+centricality 95
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+outscore 96
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+radiolite 97
+rebeck 33
+recuperation 15
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert rhincospasm 98 in sorted order
+DEBUG: acrotarsium <= rhincospasm
+DEBUG: akcheh <= rhincospasm
+DEBUG: alchimy <= rhincospasm
+DEBUG: analkalinity <= rhincospasm
+DEBUG: anhalouidine <= rhincospasm
+DEBUG: antimasonry <= rhincospasm
+DEBUG: apocynum <= rhincospasm
+DEBUG: applotment <= rhincospasm
+DEBUG: autem <= rhincospasm
+DEBUG: autoinfection <= rhincospasm
+DEBUG: besomer <= rhincospasm
+DEBUG: blindfolded <= rhincospasm
+DEBUG: catechismal <= rhincospasm
+DEBUG: centricality <= rhincospasm
+DEBUG: clarin <= rhincospasm
+DEBUG: clinopodium <= rhincospasm
+DEBUG: cropper <= rhincospasm
+DEBUG: dacryon <= rhincospasm
+DEBUG: demicoronal <= rhincospasm
+DEBUG: dewclawed <= rhincospasm
+DEBUG: doucely <= rhincospasm
+DEBUG: droitural <= rhincospasm
+DEBUG: dynamogenic <= rhincospasm
+DEBUG: each <= rhincospasm
+DEBUG: em <= rhincospasm
+DEBUG: encraty <= rhincospasm
+DEBUG: fermentology <= rhincospasm
+DEBUG: filefish <= rhincospasm
+DEBUG: forereading <= rhincospasm
+DEBUG: gingernut <= rhincospasm
+DEBUG: goburra <= rhincospasm
+DEBUG: guildic <= rhincospasm
+DEBUG: gulp <= rhincospasm
+DEBUG: heteroploid <= rhincospasm
+DEBUG: humorist <= rhincospasm
+DEBUG: hypodermal <= rhincospasm
+DEBUG: hypotarsal <= rhincospasm
+DEBUG: idioelectrical <= rhincospasm
+DEBUG: inattentive <= rhincospasm
+DEBUG: infraterritorial <= rhincospasm
+DEBUG: iodate <= rhincospasm
+DEBUG: isatic <= rhincospasm
+DEBUG: leucocytoplania <= rhincospasm
+DEBUG: mastigophora <= rhincospasm
+DEBUG: may <= rhincospasm
+DEBUG: metrophotography <= rhincospasm
+DEBUG: moneybag <= rhincospasm
+DEBUG: monochromatism <= rhincospasm
+DEBUG: mouillation <= rhincospasm
+DEBUG: mycosterol <= rhincospasm
+DEBUG: nonaristocratic <= rhincospasm
+DEBUG: nonperiodical <= rhincospasm
+DEBUG: nontestamentary <= rhincospasm
+DEBUG: omnimeter <= rhincospasm
+DEBUG: ophism <= rhincospasm
+DEBUG: outscore <= rhincospasm
+DEBUG: overquickly <= rhincospasm
+DEBUG: pneumohydrothorax <= rhincospasm
+DEBUG: pneumonolith <= rhincospasm
+DEBUG: precontroversy <= rhincospasm
+DEBUG: propeller <= rhincospasm
+DEBUG: prosogyrate <= rhincospasm
+DEBUG: pyrocatechuic <= rhincospasm
+DEBUG: radiolite <= rhincospasm
+DEBUG: rebeck <= rhincospasm
+DEBUG: recuperation <= rhincospasm
+DEBUG: sadism > rhincospasm so return 0x621700
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+centricality 95
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+outscore 96
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+radiolite 97
+rebeck 33
+recuperation 15
+rhincospasm 98
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90
+Insert rudistae 99 in sorted order
+DEBUG: acrotarsium <= rudistae
+DEBUG: akcheh <= rudistae
+DEBUG: alchimy <= rudistae
+DEBUG: analkalinity <= rudistae
+DEBUG: anhalouidine <= rudistae
+DEBUG: antimasonry <= rudistae
+DEBUG: apocynum <= rudistae
+DEBUG: applotment <= rudistae
+DEBUG: autem <= rudistae
+DEBUG: autoinfection <= rudistae
+DEBUG: besomer <= rudistae
+DEBUG: blindfolded <= rudistae
+DEBUG: catechismal <= rudistae
+DEBUG: centricality <= rudistae
+DEBUG: clarin <= rudistae
+DEBUG: clinopodium <= rudistae
+DEBUG: cropper <= rudistae
+DEBUG: dacryon <= rudistae
+DEBUG: demicoronal <= rudistae
+DEBUG: dewclawed <= rudistae
+DEBUG: doucely <= rudistae
+DEBUG: droitural <= rudistae
+DEBUG: dynamogenic <= rudistae
+DEBUG: each <= rudistae
+DEBUG: em <= rudistae
+DEBUG: encraty <= rudistae
+DEBUG: fermentology <= rudistae
+DEBUG: filefish <= rudistae
+DEBUG: forereading <= rudistae
+DEBUG: gingernut <= rudistae
+DEBUG: goburra <= rudistae
+DEBUG: guildic <= rudistae
+DEBUG: gulp <= rudistae
+DEBUG: heteroploid <= rudistae
+DEBUG: humorist <= rudistae
+DEBUG: hypodermal <= rudistae
+DEBUG: hypotarsal <= rudistae
+DEBUG: idioelectrical <= rudistae
+DEBUG: inattentive <= rudistae
+DEBUG: infraterritorial <= rudistae
+DEBUG: iodate <= rudistae
+DEBUG: isatic <= rudistae
+DEBUG: leucocytoplania <= rudistae
+DEBUG: mastigophora <= rudistae
+DEBUG: may <= rudistae
+DEBUG: metrophotography <= rudistae
+DEBUG: moneybag <= rudistae
+DEBUG: monochromatism <= rudistae
+DEBUG: mouillation <= rudistae
+DEBUG: mycosterol <= rudistae
+DEBUG: nonaristocratic <= rudistae
+DEBUG: nonperiodical <= rudistae
+DEBUG: nontestamentary <= rudistae
+DEBUG: omnimeter <= rudistae
+DEBUG: ophism <= rudistae
+DEBUG: outscore <= rudistae
+DEBUG: overquickly <= rudistae
+DEBUG: pneumohydrothorax <= rudistae
+DEBUG: pneumonolith <= rudistae
+DEBUG: precontroversy <= rudistae
+DEBUG: propeller <= rudistae
+DEBUG: prosogyrate <= rudistae
+DEBUG: pyrocatechuic <= rudistae
+DEBUG: radiolite <= rudistae
+DEBUG: rebeck <= rudistae
+DEBUG: recuperation <= rudistae
+DEBUG: rhincospasm <= rudistae
+DEBUG: sadism > rudistae so return 0x6230f0
+acrotarsium 91
+akcheh 85
+alchimy 84
+analkalinity 73
+anhalouidine 11
+antimasonry 1
+apocynum 16
+applotment 65
+autem 19
+autoinfection 60
+besomer 83
+blindfolded 67
+catechismal 39
+centricality 95
+clarin 55
+clinopodium 26
+cropper 34
+dacryon 2
+demicoronal 74
+dewclawed 50
+doucely 8
+droitural 12
+dynamogenic 14
+each 46
+em 41
+encraty 78
+fermentology 92
+filefish 77
+forereading 86
+gingernut 88
+goburra 30
+guildic 47
+gulp 66
+heteroploid 94
+humorist 13
+hypodermal 59
+hypotarsal 75
+idioelectrical 87
+inattentive 76
+infraterritorial 21
+iodate 54
+isatic 35
+leucocytoplania 9
+mastigophora 38
+may 93
+metrophotography 10
+moneybag 61
+monochromatism 58
+mouillation 64
+mycosterol 27
+nonaristocratic 31
+nonperiodical 45
+nontestamentary 49
+omnimeter 5
+ophism 69
+outscore 96
+overquickly 7
+pneumohydrothorax 62
+pneumonolith 42
+precontroversy 22
+propeller 0
+prosogyrate 4
+pyrocatechuic 52
+radiolite 97
+rebeck 33
+recuperation 15
+rhincospasm 98
+rudistae 99
+sadism 68
+salva 37
+scissorwise 70
+securifera 40
+semisucculent 25
+setoff 32
+specificative 53
+subbourdon 23
+subplantigrade 57
+surplusage 44
+suspensation 43
+taloned 51
+tepal 29
+thysanurous 6
+uglification 36
+ulotrichaceous 18
+ultraradical 89
+undevious 20
+unexemplifiable 63
+unforsaken 17
+ungettable 82
+unpreservable 81
+unread 3
+unregard 80
+unreproving 72
+unskaithd 71
+untyrannical 48
+vagueness 56
+visitational 79
+viverrine 24
+waistcoatless 28
+woodendite 90

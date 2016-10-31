@@ -1,0 +1,22 @@
+Insert hello world in sorted order
+hello world
+Insert spam eggs in sorted order
+DEBUG: hello <= spam
+hello world
+spam eggs
+Insert foo bar in sorted order
+DEBUG: hello > foo so return (nil)
+foo bar
+hello world
+spam eggs
+Insert aardvark blagh in sorted order
+DEBUG: foo > aardvark so return (nil)
+aardvark blagh
+foo bar
+hello world
+spam eggs
+Found: hello world
+Found: spam eggs
+Found: foo bar
+Found: aardvark blagh
+Failed to find: notpresent
